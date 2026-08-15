@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T22:37:20Z",
+            "last_commit": "2026-08-15T02:02:54Z",
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6056
+            "stars": 6057
           }
         }
       ],
@@ -121,7 +121,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-05T07:44:19Z",
+            "last_commit": "2026-08-14T07:42:40Z",
             "owner": "bumble-tech",
             "repo": "appyx",
             "stars": 1257
@@ -228,7 +228,7 @@
             "last_commit": "2026-04-27T15:43:57Z",
             "owner": "jeziellago",
             "repo": "compose-markdown",
-            "stars": 860
+            "stars": 861
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2026-08-13T11:25:47Z",
             "owner": "MohamedRejeb",
             "repo": "compose-rich-editor",
-            "stars": 1827
+            "stars": 1825
           }
         },
         {
@@ -713,7 +713,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T12:35:05Z",
+            "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
             "stars": 23375
@@ -730,7 +730,7 @@
             "last_commit": "2024-08-02T10:26:55Z",
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17768
+            "stars": 17769
           }
         },
         {
@@ -959,20 +959,6 @@
         },
         {
           "node_type": "item",
-          "title": "CoinWatch",
-          "description": "(29 ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-23T16:53:48Z",
-            "owner": "shorthouse",
-            "repo": "CoinWatch",
-            "stars": 147
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Facebook-Timeline-Compose-Android",
           "description": "(+119 ⭐)",
           "children": [],
@@ -982,6 +968,20 @@
             "last_commit": "2021-03-13T20:20:55Z",
             "owner": "ahmed7official",
             "repo": "Facebook-Timeline-Compose-Android",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoinWatch",
+          "description": "(29 ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-23T16:53:48Z",
+            "owner": "shorthouse",
+            "repo": "CoinWatch",
             "stars": 146
           }
         },
@@ -1055,10 +1055,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T03:21:18Z",
+            "last_commit": "2026-08-14T15:17:45Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19293
+            "stars": 19296
           }
         },
         {
@@ -1072,7 +1072,7 @@
             "last_commit": "2021-01-17T19:24:35Z",
             "owner": "vipulasri",
             "repo": "compose-slack-desktop",
-            "stars": 298
+            "stars": 297
           }
         }
       ],
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:58:52.597Z",
+    "last_updated": "2026-08-15T02:45:09.917Z",
     "original_repository": "jetpack-compose/jetpack-compose-awesome",
     "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",
     "enhanced_repository": "enhansome/jetpack-compose-enhansome",
