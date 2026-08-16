@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-15T02:02:54Z",
+            "last_commit": "2026-08-15T15:12:06Z",
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6057
+            "stars": 6061
           }
         }
       ],
@@ -96,7 +96,7 @@
             "last_commit": "2025-10-12T18:41:52Z",
             "owner": "raamcosta",
             "repo": "compose-destinations",
-            "stars": 3389
+            "stars": 3388
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-04-20T21:46:42Z",
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1319
+            "stars": 1320
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2021-10-02T12:32:11Z",
             "owner": "CuriousNikhil",
             "repo": "neumorphic-compose",
-            "stars": 464
+            "stars": 465
           }
         },
         {
@@ -716,7 +716,7 @@
             "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23375
+            "stars": 23379
           }
         },
         {
@@ -730,7 +730,7 @@
             "last_commit": "2024-08-02T10:26:55Z",
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17769
+            "stars": 17767
           }
         },
         {
@@ -744,7 +744,7 @@
             "last_commit": "2026-03-31T14:29:55Z",
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3654
+            "stars": 3653
           }
         },
         {
@@ -758,7 +758,7 @@
             "last_commit": "2025-09-04T22:43:30Z",
             "owner": "vinaygaba",
             "repo": "Learn-Jetpack-Compose-By-Example",
-            "stars": 3453
+            "stars": 3452
           }
         },
         {
@@ -1055,10 +1055,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T15:17:45Z",
+            "last_commit": "2026-08-15T03:23:17Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19296
+            "stars": 19298
           }
         },
         {
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:45:09.917Z",
+    "last_updated": "2026-08-16T02:54:00.338Z",
     "original_repository": "jetpack-compose/jetpack-compose-awesome",
     "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",
     "enhanced_repository": "enhansome/jetpack-compose-enhansome",
