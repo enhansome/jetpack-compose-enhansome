@@ -14,7 +14,7 @@
             "last_commit": "2026-06-28T12:31:21Z",
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6863
+            "stars": 6864
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-15T15:12:06Z",
+            "last_commit": "2026-08-17T02:18:55Z",
             "owner": "androidx",
             "repo": "androidx",
             "stars": 6061
@@ -96,7 +96,7 @@
             "last_commit": "2025-10-12T18:41:52Z",
             "owner": "raamcosta",
             "repo": "compose-destinations",
-            "stars": 3388
+            "stars": 3387
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2024-01-27T17:33:17Z",
             "owner": "olshevski",
             "repo": "compose-navigation-reimagined",
-            "stars": 570
+            "stars": 569
           }
         },
         {
@@ -343,10 +343,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T11:25:47Z",
+            "last_commit": "2026-08-16T10:34:54Z",
             "owner": "MohamedRejeb",
             "repo": "compose-rich-editor",
-            "stars": 1825
+            "stars": 1828
           }
         },
         {
@@ -744,7 +744,7 @@
             "last_commit": "2026-03-31T14:29:55Z",
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3653
+            "stars": 3652
           }
         },
         {
@@ -758,7 +758,7 @@
             "last_commit": "2025-09-04T22:43:30Z",
             "owner": "vinaygaba",
             "repo": "Learn-Jetpack-Compose-By-Example",
-            "stars": 3452
+            "stars": 3451
           }
         },
         {
@@ -800,7 +800,7 @@
             "last_commit": "2025-05-09T11:38:19Z",
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSComposeCookBook",
-            "stars": 727
+            "stars": 726
           }
         },
         {
@@ -870,7 +870,7 @@
             "last_commit": "2024-12-26T12:09:18Z",
             "owner": "canopas",
             "repo": "compose-animations-examples",
-            "stars": 489
+            "stars": 488
           }
         },
         {
@@ -940,7 +940,7 @@
             "last_commit": "2022-01-31T15:18:04Z",
             "owner": "gastsail",
             "repo": "JetExample",
-            "stars": 224
+            "stars": 223
           }
         },
         {
@@ -959,20 +959,6 @@
         },
         {
           "node_type": "item",
-          "title": "Facebook-Timeline-Compose-Android",
-          "description": "(+119 ⭐)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-03-13T20:20:55Z",
-            "owner": "ahmed7official",
-            "repo": "Facebook-Timeline-Compose-Android",
-            "stars": 146
-          }
-        },
-        {
-          "node_type": "item",
           "title": "CoinWatch",
           "description": "(29 ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data",
           "children": [],
@@ -987,6 +973,20 @@
         },
         {
           "node_type": "item",
+          "title": "Facebook-Timeline-Compose-Android",
+          "description": "(+119 ⭐)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-03-13T20:20:55Z",
+            "owner": "ahmed7official",
+            "repo": "Facebook-Timeline-Compose-Android",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
           "title": "jettimer",
           "description": "(+26 ⭐) - Timer app clone built with Jetpack Compose and Hilt",
           "children": [],
@@ -996,7 +996,7 @@
             "last_commit": "2021-03-08T17:55:14Z",
             "owner": "ericktijerou",
             "repo": "jettimer",
-            "stars": 134
+            "stars": 133
           }
         },
         {
@@ -1038,7 +1038,7 @@
             "last_commit": "2022-07-30T19:22:05Z",
             "owner": "RajashekarRaju",
             "repo": "jetpack-compose-samples",
-            "stars": 87
+            "stars": 86
           }
         }
       ],
@@ -1058,7 +1058,7 @@
             "last_commit": "2026-08-15T03:23:17Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19298
+            "stars": 19302
           }
         },
         {
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:54:00.338Z",
+    "last_updated": "2026-08-17T02:53:48.964Z",
     "original_repository": "jetpack-compose/jetpack-compose-awesome",
     "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",
     "enhanced_repository": "enhansome/jetpack-compose-enhansome",
