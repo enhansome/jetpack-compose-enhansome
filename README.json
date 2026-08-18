@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T02:18:55Z",
+            "last_commit": "2026-08-18T02:47:18Z",
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6061
+            "stars": 6062
           }
         }
       ],
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-14T07:42:40Z",
             "owner": "bumble-tech",
             "repo": "appyx",
-            "stars": 1257
+            "stars": 1258
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-04-20T21:46:42Z",
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1320
+            "stars": 1321
           }
         },
         {
@@ -343,10 +343,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-16T10:34:54Z",
+            "last_commit": "2026-08-17T15:05:49Z",
             "owner": "MohamedRejeb",
             "repo": "compose-rich-editor",
-            "stars": 1828
+            "stars": 1829
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2026-06-08T20:16:22Z",
             "owner": "halilozercan",
             "repo": "compose-richtext",
-            "stars": 985
+            "stars": 986
           }
         },
         {
@@ -716,7 +716,7 @@
             "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23379
+            "stars": 23382
           }
         },
         {
@@ -1055,10 +1055,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-15T03:23:17Z",
+            "last_commit": "2026-08-17T16:56:17Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19302
+            "stars": 19305
           }
         },
         {
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:53:48.964Z",
+    "last_updated": "2026-08-18T02:49:40.542Z",
     "original_repository": "jetpack-compose/jetpack-compose-awesome",
     "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",
     "enhanced_repository": "enhansome/jetpack-compose-enhansome",
