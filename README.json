@@ -14,7 +14,7 @@
             "last_commit": "2026-06-28T12:31:21Z",
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6864
+            "stars": 6865
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T02:47:18Z",
+            "last_commit": "2026-08-19T01:04:44Z",
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6062
+            "stars": 6063
           }
         }
       ],
@@ -48,7 +48,7 @@
             "last_commit": "2026-03-27T19:29:46Z",
             "owner": "airbnb",
             "repo": "Showkase",
-            "stars": 2315
+            "stars": 2316
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-06-06T18:13:22Z",
             "owner": "adrielcafe",
             "repo": "voyager",
-            "stars": 3087
+            "stars": 3088
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-04-20T21:46:42Z",
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1321
+            "stars": 1324
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2026-08-17T15:05:49Z",
             "owner": "MohamedRejeb",
             "repo": "compose-rich-editor",
-            "stars": 1829
+            "stars": 1831
           }
         },
         {
@@ -716,7 +716,7 @@
             "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23382
+            "stars": 23381
           }
         },
         {
@@ -744,7 +744,7 @@
             "last_commit": "2026-03-31T14:29:55Z",
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3652
+            "stars": 3654
           }
         },
         {
@@ -758,7 +758,7 @@
             "last_commit": "2025-09-04T22:43:30Z",
             "owner": "vinaygaba",
             "repo": "Learn-Jetpack-Compose-By-Example",
-            "stars": 3451
+            "stars": 3450
           }
         },
         {
@@ -982,7 +982,7 @@
             "last_commit": "2021-03-13T20:20:55Z",
             "owner": "ahmed7official",
             "repo": "Facebook-Timeline-Compose-Android",
-            "stars": 145
+            "stars": 144
           }
         },
         {
@@ -1055,10 +1055,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T16:56:17Z",
+            "last_commit": "2026-08-18T13:27:38Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19305
+            "stars": 19306
           }
         },
         {
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:49:40.542Z",
+    "last_updated": "2026-08-19T02:51:00.085Z",
     "original_repository": "jetpack-compose/jetpack-compose-awesome",
     "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",
     "enhanced_repository": "enhansome/jetpack-compose-enhansome",
