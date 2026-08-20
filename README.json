@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293227683,
             "language": "Kotlin",
             "last_commit": "2026-06-28T12:31:21Z",
             "owner": "Gurupreet",
@@ -24,18 +25,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256589781,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T01:04:44Z",
+            "last_commit": "2026-08-20T02:11:24Z",
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6063
+            "stars": 6064
           }
         }
       ],
       "title": "Docs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 257758318,
             "language": "Kotlin",
             "last_commit": "2026-03-27T19:29:46Z",
             "owner": "airbnb",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91067584,
             "language": "Kotlin",
             "last_commit": "2026-01-16T10:46:26Z",
             "owner": "pedrovgs",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295527648,
             "language": "Kotlin",
             "last_commit": "2023-03-03T20:56:21Z",
             "owner": "pocmo",
@@ -83,97 +88,110 @@
       "title": "Tools"
     },
     {
-      "description": "Libraries",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "compose-destinations",
-          "description": "Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-10-12T18:41:52Z",
-            "owner": "raamcosta",
-            "repo": "compose-destinations",
-            "stars": 3387
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "compose-router",
-          "description": "Routing functionality for Jetpack Compose with back stack voyager - A pragmatic navigation library for Jetpack Compose",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-06T18:13:22Z",
-            "owner": "adrielcafe",
-            "repo": "voyager",
-            "stars": 3088
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Appyx",
-          "description": "Model-driven navigation for Jetpack Compose",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T07:42:40Z",
-            "owner": "bumble-tech",
-            "repo": "appyx",
-            "stars": 1258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "compose-navigation-reimagined",
-          "description": "A small and simple, yet fully fledged and customizable navigation library for Jetpack Compose",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-01-27T17:33:17Z",
-            "owner": "olshevski",
-            "repo": "compose-navigation-reimagined",
-            "stars": 569
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "compose-backstack",
-          "description": "Simple composable for rendering transitions between backstacks.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2025-09-18T21:37:53Z",
-            "owner": "rjrjr",
-            "repo": "compose-backstack",
-            "stars": 510
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Modo",
-          "description": "Navigation library based on UDF principles",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-26T18:59:20Z",
-            "owner": "ikarenkov",
-            "repo": "Modo",
-            "stars": 345
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "compose-destinations",
+              "description": "Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402228168,
+                "language": "Kotlin",
+                "last_commit": "2025-10-12T18:41:52Z",
+                "owner": "raamcosta",
+                "repo": "compose-destinations",
+                "stars": 3387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compose-router",
+              "description": "Routing functionality for Jetpack Compose with back stack voyager - A pragmatic navigation library for Jetpack Compose",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387613592,
+                "language": "Kotlin",
+                "last_commit": "2026-06-06T18:13:22Z",
+                "owner": "adrielcafe",
+                "repo": "voyager",
+                "stars": 3087
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Appyx",
+              "description": "Model-driven navigation for Jetpack Compose",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493334393,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T07:38:25Z",
+                "owner": "bumble-tech",
+                "repo": "appyx",
+                "stars": 1258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compose-navigation-reimagined",
+              "description": "A small and simple, yet fully fledged and customizable navigation library for Jetpack Compose",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 455126442,
+                "language": "Kotlin",
+                "last_commit": "2024-01-27T17:33:17Z",
+                "owner": "olshevski",
+                "repo": "compose-navigation-reimagined",
+                "stars": 569
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compose-backstack",
+              "description": "Simple composable for rendering transitions between backstacks.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 249345157,
+                "language": "Kotlin",
+                "last_commit": "2025-09-18T21:37:53Z",
+                "owner": "rjrjr",
+                "repo": "compose-backstack",
+                "stars": 510
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Modo",
+              "description": "Navigation library based on UDF principles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336628876,
+                "language": "Kotlin",
+                "last_commit": "2026-06-26T18:59:20Z",
+                "owner": "ikarenkov",
+                "repo": "Modo",
+                "stars": 345
+              }
+            }
+          ],
+          "description": "Libraries\nArticles",
+          "node_type": "group",
+          "title": "Navigation"
         }
       ],
-      "title": "Navigation"
+      "title": "Articles"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -182,6 +200,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261392630,
             "language": "Kotlin",
             "last_commit": "2025-08-18T20:49:30Z",
             "owner": "google",
@@ -196,8 +215,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298332340,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T04:36:41Z",
+            "last_commit": "2026-08-19T16:08:04Z",
             "owner": "skydoves",
             "repo": "landscapist",
             "stars": 2573
@@ -210,6 +230,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 720887699,
             "language": "Kotlin",
             "last_commit": "2026-04-20T21:46:42Z",
             "owner": "Calvin-LL",
@@ -224,11 +245,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344487553,
             "language": "Kotlin",
             "last_commit": "2026-04-27T15:43:57Z",
             "owner": "jeziellago",
             "repo": "compose-markdown",
-            "stars": 861
+            "stars": 862
           }
         },
         {
@@ -238,6 +260,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311134756,
             "language": "Kotlin",
             "last_commit": "2024-09-15T22:26:17Z",
             "owner": "DevSrSouza",
@@ -252,6 +275,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370198325,
             "language": "Kotlin",
             "last_commit": "2026-07-21T11:09:18Z",
             "owner": "adrielcafe",
@@ -266,6 +290,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 249345157,
             "language": "Kotlin",
             "last_commit": "2025-09-18T21:37:53Z",
             "owner": "rjrjr",
@@ -280,6 +305,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 415042421,
             "language": "Kotlin",
             "last_commit": "2022-11-10T10:40:53Z",
             "owner": "chrisbanes",
@@ -294,6 +320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 734605413,
             "language": "Kotlin",
             "last_commit": "2024-12-26T09:00:57Z",
             "owner": "canopas",
@@ -308,402 +335,431 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 767227374,
             "language": "Kotlin",
             "last_commit": "2025-06-12T22:30:29Z",
             "owner": "Calvin-LL",
             "repo": "AutoLinkText",
             "stars": 89
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Konfetti",
+              "description": "Easily celebrate little and big moments in your app with this lightweight confetti particle system 🎊",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86191112,
+                "language": "Kotlin",
+                "last_commit": "2025-08-21T10:03:22Z",
+                "owner": "DanielMartinus",
+                "repo": "Konfetti",
+                "stars": 3385
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🆕",
+              "description": "Compose-Rich-Editor - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630584174,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T15:03:23Z",
+                "owner": "MohamedRejeb",
+                "repo": "compose-rich-editor",
+                "stars": 1832
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🆕",
+              "description": "telephoto - Building blocks for designing media experiences in Compose UI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 593020002,
+                "language": "Kotlin",
+                "last_commit": "2026-07-22T17:59:36Z",
+                "owner": "saket",
+                "repo": "telephoto",
+                "stars": 1544
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FloatingActionButton SpeedDial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126714653,
+                "language": "Java",
+                "last_commit": "2024-04-04T07:35:37Z",
+                "owner": "leinardi",
+                "repo": "FloatingActionButtonSpeedDial",
+                "stars": 1473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compose-richtext",
+              "description": "A collection of Compose libraries for advanced text formatting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245738491,
+                "language": "Kotlin",
+                "last_commit": "2026-06-08T20:16:22Z",
+                "owner": "halilozercan",
+                "repo": "compose-richtext",
+                "stars": 986
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tehras/charts",
+              "description": "simple Android compose charts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272231828,
+                "language": "Kotlin",
+                "last_commit": "2026-03-03T16:58:00Z",
+                "owner": "tehras",
+                "repo": "charts",
+                "stars": 776
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WheelPickerCompose",
+              "description": "Wheel Date & Time Picker for Jetpack Compose.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 533964302,
+                "language": "Kotlin",
+                "last_commit": "2024-05-16T03:12:07Z",
+                "owner": "commandiron",
+                "repo": "WheelPickerCompose",
+                "stars": 619
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Collection of UIs and Animations built with Jetpack Compose for Android",
+              "description": "Collection of UIs and Animations built with Jetpack Compose for Android",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379183596,
+                "language": "Kotlin",
+                "last_commit": "2021-10-23T10:19:14Z",
+                "owner": "prafullmishra",
+                "repo": "JetComposer",
+                "stars": 471
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "neumorphic-compose",
+              "description": "Neumorphism UI with Jetpack Compose. Just add simple modifier.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372238883,
+                "language": "Kotlin",
+                "last_commit": "2021-10-02T12:32:11Z",
+                "owner": "CuriousNikhil",
+                "repo": "neumorphic-compose",
+                "stars": 465
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dropdown",
+              "description": "A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 485185020,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T17:43:30Z",
+                "owner": "AndroidPoet",
+                "repo": "Dropdown",
+                "stars": 420
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🆕",
+              "description": "Animated Navigation Bar - A navigation bar with a number of preset animations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614262160,
+                "language": "Kotlin",
+                "last_commit": "2024-08-06T09:01:41Z",
+                "owner": "exyte",
+                "repo": "AndroidAnimatedNavigationBar",
+                "stars": 412
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ComposeCalendar",
+              "description": "A Jetpack Compose library for handling calendar component rendering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 355182891,
+                "language": "Kotlin",
+                "last_commit": "2025-02-16T16:57:07Z",
+                "owner": "boguszpawlowski",
+                "repo": "ComposeCalendar",
+                "stars": 382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🆕",
+              "description": "minabox - Lazy box library for Jetpack Compose, which allows to display lazy loaded items on the 2D plane.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 641512550,
+                "language": "Kotlin",
+                "last_commit": "2025-02-21T07:58:51Z",
+                "owner": "oleksandrbalan",
+                "repo": "minabox",
+                "stars": 355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ProgressButton",
+              "description": "SSJetPackComposeProgressButton is an elegant button with a different loading animations which makes your app attractive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366930914,
+                "language": "Kotlin",
+                "last_commit": "2024-11-25T15:03:47Z",
+                "owner": "SimformSolutionsPvtLtd",
+                "repo": "SSJetPackComposeProgressButton",
+                "stars": 329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compose-ratingbar",
+              "description": "Ratingbar for Jetpack Compose.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 354217270,
+                "language": "Kotlin",
+                "last_commit": "2025-07-31T11:43:14Z",
+                "owner": "a914-gowtham",
+                "repo": "compose-ratingbar",
+                "stars": 251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Animated BottomBar Compose",
+              "description": "A Jetpack Compose library that simplifies the creation of stylish Bottom Navigation Bars with customizable animations. It allows you to easily integrate attractive navigation bars into your Android app, enhancing the user experience.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 698196719,
+                "language": "Kotlin",
+                "last_commit": "2024-12-26T08:43:23Z",
+                "owner": "canopas",
+                "repo": "compose-animated-navigationbar",
+                "stars": 221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Exploding Composable",
+              "description": "A Jetpack Compose utility library to add explosive dust effect animation to any composable",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 604084562,
+                "language": "Kotlin",
+                "last_commit": "2023-04-12T19:20:22Z",
+                "owner": "omkar-tenkale",
+                "repo": "ExplodingComposable",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🆕",
+              "description": "Blueprint - 📐 library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 686784095,
+                "language": "Kotlin",
+                "last_commit": "2025-08-28T08:55:48Z",
+                "owner": "popovanton0",
+                "repo": "Blueprint",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "info-bar-compose",
+              "description": "Display Snackbar-style messages, the easy way.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 388717815,
+                "language": "Kotlin",
+                "last_commit": "2025-05-30T09:30:57Z",
+                "owner": "radusalagean",
+                "repo": "info-bar-compose",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwipeAbleViews",
+              "description": "SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 438887766,
+                "language": "Kotlin",
+                "last_commit": "2022-07-27T11:27:40Z",
+                "owner": "SimformSolutionsPvtLtd",
+                "repo": "SSJetpackComposeSwipeableView",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dark-Toggle-Button-Sample-Jetpack-Compose",
+              "description": "(+50 ⭐) - Animated dark mode toggle button with Jetpack Compose.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308823841,
+                "language": "Kotlin",
+                "last_commit": "2021-09-12T07:32:11Z",
+                "owner": "lcdsmao",
+                "repo": "Dark-Toggle-Button-Sample-Jetpack-Compose",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ComposeDynamicTheme",
+              "description": "Material design based Theme Management System for Jetpack Compose",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 636721439,
+                "language": "Kotlin",
+                "last_commit": "2023-07-23T14:32:17Z",
+                "owner": "seyoungcho2",
+                "repo": "ComposeDynamicTheme",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shimmer",
+              "description": "Shimmer effect",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400167656,
+                "language": "Kotlin",
+                "last_commit": "2023-07-31T12:37:05Z",
+                "owner": "ValeryPonomarenko",
+                "repo": "compose-shimmer",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WYSIWYG Rich Editor Compose",
+              "description": "Android WYSIWYG Rich editor for Jetpack compose.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661675883,
+                "language": "Kotlin",
+                "last_commit": "2024-12-26T12:10:09Z",
+                "owner": "canopas",
+                "repo": "rich-editor-compose",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YouTubePlayer",
+              "description": "YouTube kotlin multiplatform player. The YouTubePlayer composable allows you to embed a YouTube video player in your Jetpack Compose app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 718148600,
+                "language": "Kotlin",
+                "last_commit": "2026-06-11T23:36:37Z",
+                "owner": "IlyaPavlovskii",
+                "repo": "YouTubePlayer",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "heart-switch",
+              "description": "❤️ A heart-shaped toggle switch component for Jetpack Compose",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 463270099,
+                "language": "Kotlin",
+                "last_commit": "2024-10-11T20:22:54Z",
+                "owner": "popovanton0",
+                "repo": "heart-switch",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compose-sliders",
+              "description": "Custom Sliders (previously known as SeekBar) for jetpack compose",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429439847,
+                "language": "Kotlin",
+                "last_commit": "2022-10-02T09:23:10Z",
+                "owner": "krottv",
+                "repo": "compose-sliders",
+                "stars": 66
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UI"
         }
       ],
       "title": "Libraries"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Konfetti",
-          "description": "Easily celebrate little and big moments in your app with this lightweight confetti particle system 🎊",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-08-21T10:03:22Z",
-            "owner": "DanielMartinus",
-            "repo": "Konfetti",
-            "stars": 3385
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🆕",
-          "description": "Compose-Rich-Editor - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T15:05:49Z",
-            "owner": "MohamedRejeb",
-            "repo": "compose-rich-editor",
-            "stars": 1831
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🆕",
-          "description": "telephoto - Building blocks for designing media experiences in Compose UI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-07-22T17:59:36Z",
-            "owner": "saket",
-            "repo": "telephoto",
-            "stars": 1542
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FloatingActionButton SpeedDial",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-04-04T07:35:37Z",
-            "owner": "leinardi",
-            "repo": "FloatingActionButtonSpeedDial",
-            "stars": 1473
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "compose-richtext",
-          "description": "A collection of Compose libraries for advanced text formatting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-08T20:16:22Z",
-            "owner": "halilozercan",
-            "repo": "compose-richtext",
-            "stars": 986
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tehras/charts",
-          "description": "simple Android compose charts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-03-03T16:58:00Z",
-            "owner": "tehras",
-            "repo": "charts",
-            "stars": 776
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WheelPickerCompose",
-          "description": "Wheel Date & Time Picker for Jetpack Compose.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-05-16T03:12:07Z",
-            "owner": "commandiron",
-            "repo": "WheelPickerCompose",
-            "stars": 620
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Collection of UIs and Animations built with Jetpack Compose for Android",
-          "description": "Collection of UIs and Animations built with Jetpack Compose for Android",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-10-23T10:19:14Z",
-            "owner": "prafullmishra",
-            "repo": "JetComposer",
-            "stars": 471
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "neumorphic-compose",
-          "description": "Neumorphism UI with Jetpack Compose. Just add simple modifier.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-10-02T12:32:11Z",
-            "owner": "CuriousNikhil",
-            "repo": "neumorphic-compose",
-            "stars": 465
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dropdown",
-          "description": "A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-12T18:03:16Z",
-            "owner": "AndroidPoet",
-            "repo": "Dropdown",
-            "stars": 420
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🆕",
-          "description": "Animated Navigation Bar - A navigation bar with a number of preset animations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-08-06T09:01:41Z",
-            "owner": "exyte",
-            "repo": "AndroidAnimatedNavigationBar",
-            "stars": 412
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ComposeCalendar",
-          "description": "A Jetpack Compose library for handling calendar component rendering.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-02-16T16:57:07Z",
-            "owner": "boguszpawlowski",
-            "repo": "ComposeCalendar",
-            "stars": 382
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🆕",
-          "description": "minabox - Lazy box library for Jetpack Compose, which allows to display lazy loaded items on the 2D plane.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-02-21T07:58:51Z",
-            "owner": "oleksandrbalan",
-            "repo": "minabox",
-            "stars": 355
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ProgressButton",
-          "description": "SSJetPackComposeProgressButton is an elegant button with a different loading animations which makes your app attractive.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-11-25T15:03:47Z",
-            "owner": "SimformSolutionsPvtLtd",
-            "repo": "SSJetPackComposeProgressButton",
-            "stars": 329
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "compose-ratingbar",
-          "description": "Ratingbar for Jetpack Compose.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-07-31T11:43:14Z",
-            "owner": "a914-gowtham",
-            "repo": "compose-ratingbar",
-            "stars": 251
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Animated BottomBar Compose",
-          "description": "A Jetpack Compose library that simplifies the creation of stylish Bottom Navigation Bars with customizable animations. It allows you to easily integrate attractive navigation bars into your Android app, enhancing the user experience.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-12-26T08:43:23Z",
-            "owner": "canopas",
-            "repo": "compose-animated-navigationbar",
-            "stars": 221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Exploding Composable",
-          "description": "A Jetpack Compose utility library to add explosive dust effect animation to any composable",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-04-12T19:20:22Z",
-            "owner": "omkar-tenkale",
-            "repo": "ExplodingComposable",
-            "stars": 188
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🆕",
-          "description": "Blueprint - 📐 library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-08-28T08:55:48Z",
-            "owner": "popovanton0",
-            "repo": "Blueprint",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "info-bar-compose",
-          "description": "Display Snackbar-style messages, the easy way.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-05-30T09:30:57Z",
-            "owner": "radusalagean",
-            "repo": "info-bar-compose",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwipeAbleViews",
-          "description": "SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-07-27T11:27:40Z",
-            "owner": "SimformSolutionsPvtLtd",
-            "repo": "SSJetpackComposeSwipeableView",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dark-Toggle-Button-Sample-Jetpack-Compose",
-          "description": "(+50 ⭐) - Animated dark mode toggle button with Jetpack Compose.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-09-12T07:32:11Z",
-            "owner": "lcdsmao",
-            "repo": "Dark-Toggle-Button-Sample-Jetpack-Compose",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ComposeDynamicTheme",
-          "description": "Material design based Theme Management System for Jetpack Compose",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-07-23T14:32:17Z",
-            "owner": "seyoungcho2",
-            "repo": "ComposeDynamicTheme",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shimmer",
-          "description": "Shimmer effect",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-07-31T12:37:05Z",
-            "owner": "ValeryPonomarenko",
-            "repo": "compose-shimmer",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WYSIWYG Rich Editor Compose",
-          "description": "Android WYSIWYG Rich editor for Jetpack compose.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-12-26T12:10:09Z",
-            "owner": "canopas",
-            "repo": "rich-editor-compose",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "YouTubePlayer",
-          "description": "YouTube kotlin multiplatform player. The YouTubePlayer composable allows you to embed a YouTube video player in your Jetpack Compose app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-11T23:36:37Z",
-            "owner": "IlyaPavlovskii",
-            "repo": "YouTubePlayer",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "heart-switch",
-          "description": "❤️ A heart-shaped toggle switch component for Jetpack Compose",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-10-11T20:22:54Z",
-            "owner": "popovanton0",
-            "repo": "heart-switch",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "compose-sliders",
-          "description": "Custom Sliders (previously known as SeekBar) for jetpack compose",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-10-02T09:23:10Z",
-            "owner": "krottv",
-            "repo": "compose-sliders",
-            "stars": 66
-          }
-        }
-      ],
-      "title": "UI"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -712,11 +768,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211288349,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
+            "last_commit": "2026-08-19T09:01:09Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23381
+            "stars": 23386
           }
         },
         {
@@ -726,11 +783,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 134505361,
             "language": "Kotlin",
             "last_commit": "2024-08-02T10:26:55Z",
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17767
+            "stars": 17766
           }
         },
         {
@@ -740,6 +798,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187719625,
             "language": "Kotlin",
             "last_commit": "2026-03-31T14:29:55Z",
             "owner": "Foso",
@@ -754,6 +813,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225287739,
             "language": "Kotlin",
             "last_commit": "2025-09-04T22:43:30Z",
             "owner": "vinaygaba",
@@ -768,6 +828,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265163836,
             "language": "Kotlin",
             "last_commit": "2021-04-08T05:27:36Z",
             "owner": "hitherejoe",
@@ -782,6 +843,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292028144,
             "language": "Kotlin",
             "last_commit": "2022-07-09T18:24:00Z",
             "owner": "vipulasri",
@@ -796,6 +858,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379199800,
             "language": "Kotlin",
             "last_commit": "2025-05-09T11:38:19Z",
             "owner": "SimformSolutionsPvtLtd",
@@ -810,6 +873,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453908658,
             "language": "Kotlin",
             "last_commit": "2024-12-26T12:14:58Z",
             "owner": "canopas",
@@ -824,6 +888,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296253606,
             "language": "Kotlin",
             "last_commit": "2024-04-16T13:57:16Z",
             "owner": "Spikeysanju",
@@ -838,6 +903,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 348799220,
             "language": "Kotlin",
             "last_commit": "2023-05-11T20:49:54Z",
             "owner": "fidloo",
@@ -852,6 +918,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342802106,
             "language": "Kotlin",
             "last_commit": "2021-09-07T12:18:30Z",
             "owner": "Spikeysanju",
@@ -866,6 +933,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 451811035,
             "language": "Kotlin",
             "last_commit": "2024-12-26T12:09:18Z",
             "owner": "canopas",
@@ -880,6 +948,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301594226,
             "language": "Kotlin",
             "last_commit": "2024-10-21T15:04:10Z",
             "owner": "alexjlockwood",
@@ -894,6 +963,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264421247,
             "language": "Kotlin",
             "last_commit": "2020-08-11T12:32:54Z",
             "owner": "ahmedrizwan",
@@ -908,6 +978,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290590523,
             "language": "Kotlin",
             "last_commit": "2022-01-09T18:50:26Z",
             "owner": "wajahatkarim3",
@@ -922,6 +993,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370149970,
             "language": "Kotlin",
             "last_commit": "2021-05-24T08:27:53Z",
             "owner": "halilozercan",
@@ -936,6 +1008,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292722490,
             "language": "Kotlin",
             "last_commit": "2022-01-31T15:18:04Z",
             "owner": "gastsail",
@@ -950,6 +1023,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 402996977,
             "language": "Kotlin",
             "last_commit": "2024-03-18T16:54:27Z",
             "owner": "AnkitSuda",
@@ -964,6 +1038,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 655260745,
             "language": "Kotlin",
             "last_commit": "2026-06-23T16:53:48Z",
             "owner": "shorthouse",
@@ -978,11 +1053,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 343558508,
             "language": "Kotlin",
             "last_commit": "2021-03-13T20:20:55Z",
             "owner": "ahmed7official",
             "repo": "Facebook-Timeline-Compose-Android",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -992,6 +1068,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344213458,
             "language": "Kotlin",
             "last_commit": "2021-03-08T17:55:14Z",
             "owner": "ericktijerou",
@@ -1006,6 +1083,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342065605,
             "language": "Kotlin",
             "last_commit": "2021-04-28T12:22:06Z",
             "owner": "ericktijerou",
@@ -1020,6 +1098,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39693402,
             "language": "Kotlin",
             "last_commit": "2026-01-11T20:03:08Z",
             "owner": "adrianblancode",
@@ -1034,6 +1113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 346706416,
             "language": "Kotlin",
             "last_commit": "2022-07-30T19:22:05Z",
             "owner": "RajashekarRaju",
@@ -1045,7 +1125,7 @@
       "title": "App Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1054,11 +1134,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293498508,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T13:27:38Z",
+            "last_commit": "2026-08-19T14:31:02Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19306
+            "stars": 19307
           }
         },
         {
@@ -1068,6 +1149,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326957116,
             "language": "Kotlin",
             "last_commit": "2021-01-17T19:24:35Z",
             "owner": "vipulasri",
@@ -1077,16 +1159,12 @@
         }
       ],
       "title": "Compose Desktop Projects"
-    },
-    {
-      "description": "Support it by joining stargazers for this repository. ⭐",
-      "items": [],
-      "title": "Find this repository useful? ❤️"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:51:00.085Z",
+    "last_updated": "2026-08-20T02:50:43.276Z",
     "original_repository": "jetpack-compose/jetpack-compose-awesome",
+    "original_repository_id": 297828590,
     "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",
     "enhanced_repository": "enhansome/jetpack-compose-enhansome",
     "enhanced_repository_description": null,
