@@ -27,10 +27,10 @@
             "archived": false,
             "id": 256589781,
             "language": "Kotlin",
-            "last_commit": "2026-08-21T01:45:44Z",
+            "last_commit": "2026-08-21T23:49:16Z",
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6065
+            "stars": 6066
           }
         }
       ],
@@ -205,7 +205,7 @@
             "last_commit": "2025-08-18T20:49:30Z",
             "owner": "google",
             "repo": "accompanist",
-            "stars": 7828
+            "stars": 7829
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2026-08-19T16:08:04Z",
             "owner": "skydoves",
             "repo": "landscapist",
-            "stars": 2573
+            "stars": 2574
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-04-20T21:46:42Z",
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1324
+            "stars": 1325
           }
         },
         {
@@ -369,7 +369,7 @@
                 "archived": false,
                 "id": 630584174,
                 "language": "Kotlin",
-                "last_commit": "2026-08-20T15:24:52Z",
+                "last_commit": "2026-08-21T15:03:48Z",
                 "owner": "MohamedRejeb",
                 "repo": "compose-rich-editor",
                 "stars": 1832
@@ -387,7 +387,7 @@
                 "last_commit": "2026-07-22T17:59:36Z",
                 "owner": "saket",
                 "repo": "telephoto",
-                "stars": 1545
+                "stars": 1546
               }
             },
             {
@@ -447,7 +447,7 @@
                 "last_commit": "2024-05-16T03:12:07Z",
                 "owner": "commandiron",
                 "repo": "WheelPickerCompose",
-                "stars": 619
+                "stars": 620
               }
             },
             {
@@ -770,10 +770,10 @@
             "archived": false,
             "id": 211288349,
             "language": "Kotlin",
-            "last_commit": "2026-08-20T15:18:51Z",
+            "last_commit": "2026-08-21T10:08:21Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23391
+            "stars": 23394
           }
         },
         {
@@ -1136,10 +1136,10 @@
             "archived": false,
             "id": 293498508,
             "language": "Kotlin",
-            "last_commit": "2026-08-20T13:25:43Z",
+            "last_commit": "2026-08-21T15:58:30Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19307
+            "stars": 19309
           }
         },
         {
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:56:03.198Z",
+    "last_updated": "2026-08-22T02:47:37.834Z",
     "original_repository": "jetpack-compose/jetpack-compose-awesome",
     "original_repository_id": 297828590,
     "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",
