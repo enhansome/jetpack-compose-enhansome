@@ -15,7 +15,7 @@
             "last_commit": "2026-06-28T12:31:21Z",
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6868
+            "stars": 6871
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 256589781,
             "language": "Kotlin",
-            "last_commit": "2026-08-21T23:49:16Z",
+            "last_commit": "2026-08-22T05:53:30Z",
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6066
+            "stars": 6067
           }
         }
       ],
@@ -119,7 +119,7 @@
                 "last_commit": "2026-06-06T18:13:22Z",
                 "owner": "adrielcafe",
                 "repo": "voyager",
-                "stars": 3087
+                "stars": 3088
               }
             },
             {
@@ -131,7 +131,7 @@
                 "archived": false,
                 "id": 493334393,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T07:38:25Z",
+                "last_commit": "2026-08-22T07:09:48Z",
                 "owner": "bumble-tech",
                 "repo": "appyx",
                 "stars": 1258
@@ -179,7 +179,7 @@
                 "last_commit": "2026-06-26T18:59:20Z",
                 "owner": "ikarenkov",
                 "repo": "Modo",
-                "stars": 345
+                "stars": 344
               }
             }
           ],
@@ -205,7 +205,7 @@
             "last_commit": "2025-08-18T20:49:30Z",
             "owner": "google",
             "repo": "accompanist",
-            "stars": 7829
+            "stars": 7830
           }
         },
         {
@@ -217,7 +217,7 @@
             "archived": false,
             "id": 298332340,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T16:08:04Z",
+            "last_commit": "2026-08-22T06:46:14Z",
             "owner": "skydoves",
             "repo": "landscapist",
             "stars": 2574
@@ -235,7 +235,7 @@
             "last_commit": "2026-04-20T21:46:42Z",
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1325
+            "stars": 1328
           }
         },
         {
@@ -372,7 +372,7 @@
                 "last_commit": "2026-08-21T15:03:48Z",
                 "owner": "MohamedRejeb",
                 "repo": "compose-rich-editor",
-                "stars": 1832
+                "stars": 1835
               }
             },
             {
@@ -387,7 +387,7 @@
                 "last_commit": "2026-07-22T17:59:36Z",
                 "owner": "saket",
                 "repo": "telephoto",
-                "stars": 1546
+                "stars": 1547
               }
             },
             {
@@ -582,7 +582,7 @@
                 "last_commit": "2024-12-26T08:43:23Z",
                 "owner": "canopas",
                 "repo": "compose-animated-navigationbar",
-                "stars": 221
+                "stars": 222
               }
             },
             {
@@ -773,7 +773,7 @@
             "last_commit": "2026-08-21T10:08:21Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23394
+            "stars": 23396
           }
         },
         {
@@ -788,7 +788,7 @@
             "last_commit": "2024-08-02T10:26:55Z",
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17766
+            "stars": 17765
           }
         },
         {
@@ -848,7 +848,7 @@
             "last_commit": "2022-07-09T18:24:00Z",
             "owner": "vipulasri",
             "repo": "JetInstagram",
-            "stars": 841
+            "stars": 842
           }
         },
         {
@@ -1136,10 +1136,10 @@
             "archived": false,
             "id": 293498508,
             "language": "Kotlin",
-            "last_commit": "2026-08-21T15:58:30Z",
+            "last_commit": "2026-08-22T03:19:42Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19309
+            "stars": 19311
           }
         },
         {
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:47:37.834Z",
+    "last_updated": "2026-08-23T02:56:01.113Z",
     "original_repository": "jetpack-compose/jetpack-compose-awesome",
     "original_repository_id": 297828590,
     "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",
