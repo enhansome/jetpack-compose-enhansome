@@ -27,7 +27,7 @@
             "archived": false,
             "id": 256589781,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T02:41:44Z",
+            "last_commit": "2026-08-24T13:52:08Z",
             "owner": "androidx",
             "repo": "androidx",
             "stars": 6068
@@ -51,7 +51,7 @@
             "last_commit": "2026-03-27T19:29:46Z",
             "owner": "airbnb",
             "repo": "Showkase",
-            "stars": 2316
+            "stars": 2317
           }
         },
         {
@@ -134,7 +134,7 @@
                 "last_commit": "2026-08-22T07:09:48Z",
                 "owner": "bumble-tech",
                 "repo": "appyx",
-                "stars": 1258
+                "stars": 1259
               }
             },
             {
@@ -186,6 +186,28 @@
           "description": "Libraries\nArticles",
           "node_type": "group",
           "title": "Navigation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KakaoCup/Compose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 403825613,
+                "language": "Kotlin",
+                "last_commit": "2026-01-09T02:39:06Z",
+                "owner": "KakaoCup",
+                "repo": "Compose",
+                "stars": 186
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testings"
         }
       ],
       "title": "Articles"
@@ -217,10 +239,10 @@
             "archived": false,
             "id": 298332340,
             "language": "Kotlin",
-            "last_commit": "2026-08-22T06:46:14Z",
+            "last_commit": "2026-08-24T06:16:10Z",
             "owner": "skydoves",
             "repo": "landscapist",
-            "stars": 2575
+            "stars": 2574
           }
         },
         {
@@ -250,7 +272,7 @@
             "last_commit": "2026-08-20T20:55:02Z",
             "owner": "jeziellago",
             "repo": "compose-markdown",
-            "stars": 862
+            "stars": 863
           }
         },
         {
@@ -417,7 +439,7 @@
                 "last_commit": "2026-06-08T20:16:22Z",
                 "owner": "halilozercan",
                 "repo": "compose-richtext",
-                "stars": 986
+                "stars": 988
               }
             },
             {
@@ -447,7 +469,7 @@
                 "last_commit": "2024-05-16T03:12:07Z",
                 "owner": "commandiron",
                 "repo": "WheelPickerCompose",
-                "stars": 620
+                "stars": 621
               }
             },
             {
@@ -489,7 +511,7 @@
                 "archived": false,
                 "id": 485185020,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T17:43:30Z",
+                "last_commit": "2026-08-24T05:40:19Z",
                 "owner": "AndroidPoet",
                 "repo": "Dropdown",
                 "stars": 420
@@ -773,7 +795,7 @@
             "last_commit": "2026-08-21T10:08:21Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23394
+            "stars": 23399
           }
         },
         {
@@ -878,7 +900,7 @@
             "last_commit": "2024-12-26T12:14:58Z",
             "owner": "canopas",
             "repo": "compose-intro-showcase",
-            "stars": 613
+            "stars": 615
           }
         },
         {
@@ -1136,10 +1158,10 @@
             "archived": false,
             "id": 293498508,
             "language": "Kotlin",
-            "last_commit": "2026-08-22T03:19:42Z",
+            "last_commit": "2026-08-24T13:22:57Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19313
+            "stars": 19315
           }
         },
         {
@@ -1159,10 +1181,52 @@
         }
       ],
       "title": "Compose Desktop Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ComposeClock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245678172,
+            "language": "Kotlin",
+            "last_commit": "2021-11-04T22:57:56Z",
+            "owner": "adibfara",
+            "repo": "ComposeClock",
+            "stars": 433
+          }
+        }
+      ],
+      "title": "Other projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jetpack-Compose-Playground",
+          "description": "Community-driven collection of Jetpack Compose example code and tutorials 🚀",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187719625,
+            "language": "Kotlin",
+            "last_commit": "2026-03-31T14:29:55Z",
+            "owner": "Foso",
+            "repo": "Jetpack-Compose-Playground",
+            "stars": 3654
+          }
+        }
+      ],
+      "title": "Extras"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:57:04.803Z",
+    "last_updated": "2026-08-24T14:00:37.762Z",
     "original_repository": "jetpack-compose/jetpack-compose-awesome",
     "original_repository_id": 297828590,
     "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",
