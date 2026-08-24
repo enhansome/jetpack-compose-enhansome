@@ -27,10 +27,10 @@
             "archived": false,
             "id": 256589781,
             "language": "Kotlin",
-            "last_commit": "2026-08-22T05:53:30Z",
+            "last_commit": "2026-08-24T02:41:44Z",
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6067
+            "stars": 6068
           }
         }
       ],
@@ -220,7 +220,7 @@
             "last_commit": "2026-08-22T06:46:14Z",
             "owner": "skydoves",
             "repo": "landscapist",
-            "stars": 2574
+            "stars": 2575
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-04-20T21:46:42Z",
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1328
+            "stars": 1329
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2024-09-15T22:26:17Z",
             "owner": "DevSrSouza",
             "repo": "compose-icons",
-            "stars": 858
+            "stars": 859
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-07-21T11:09:18Z",
             "owner": "adrielcafe",
             "repo": "lyricist",
-            "stars": 812
+            "stars": 811
           }
         },
         {
@@ -387,7 +387,7 @@
                 "last_commit": "2026-07-22T17:59:36Z",
                 "owner": "saket",
                 "repo": "telephoto",
-                "stars": 1547
+                "stars": 1548
               }
             },
             {
@@ -773,7 +773,7 @@
             "last_commit": "2026-08-21T10:08:21Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23396
+            "stars": 23394
           }
         },
         {
@@ -1139,7 +1139,7 @@
             "last_commit": "2026-08-22T03:19:42Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19311
+            "stars": 19313
           }
         },
         {
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:56:01.113Z",
+    "last_updated": "2026-08-24T02:57:04.803Z",
     "original_repository": "jetpack-compose/jetpack-compose-awesome",
     "original_repository_id": 297828590,
     "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",
