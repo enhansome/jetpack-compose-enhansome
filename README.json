@@ -27,7 +27,7 @@
             "archived": false,
             "id": 256589781,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T13:52:08Z",
+            "last_commit": "2026-08-25T01:22:36Z",
             "owner": "androidx",
             "repo": "androidx",
             "stars": 6068
@@ -484,7 +484,7 @@
                 "last_commit": "2021-10-23T10:19:14Z",
                 "owner": "prafullmishra",
                 "repo": "JetComposer",
-                "stars": 471
+                "stars": 472
               }
             },
             {
@@ -795,7 +795,7 @@
             "last_commit": "2026-08-21T10:08:21Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23399
+            "stars": 23402
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2025-09-04T22:43:30Z",
             "owner": "vinaygaba",
             "repo": "Learn-Jetpack-Compose-By-Example",
-            "stars": 3450
+            "stars": 3451
           }
         },
         {
@@ -870,7 +870,7 @@
             "last_commit": "2022-07-09T18:24:00Z",
             "owner": "vipulasri",
             "repo": "JetInstagram",
-            "stars": 842
+            "stars": 843
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2024-12-26T12:09:18Z",
             "owner": "canopas",
             "repo": "compose-animations-examples",
-            "stars": 488
+            "stars": 489
           }
         },
         {
@@ -1158,10 +1158,10 @@
             "archived": false,
             "id": 293498508,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T13:22:57Z",
+            "last_commit": "2026-08-24T18:56:50Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19315
+            "stars": 19317
           }
         },
         {
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:37.762Z",
+    "last_updated": "2026-08-25T02:52:09.927Z",
     "original_repository": "jetpack-compose/jetpack-compose-awesome",
     "original_repository_id": 297828590,
     "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",

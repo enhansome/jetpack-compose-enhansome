@@ -36,7 +36,7 @@
 ## Docs
 
 * [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) ⭐ 6,871 | 🐛 43 | 🌐 Kotlin | 📅 2026-06-28
-* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,068 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-24
+* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,068 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-25
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
 * [Jetpack Compose Codelabs](https://developer.android.com/codelabs/jetpack-compose-basics)
 * [Jetpack Compose Roadmap](https://developer.android.com/jetpack/androidx/compose-roadmap)
@@ -273,7 +273,7 @@
 * [compose-richtext](https://github.com/zach-klippenstein/compose-richtext) ⭐ 988 | 🐛 44 | 🌐 Kotlin | 📅 2026-06-08 - A collection of Compose libraries for advanced text formatting.
 * [tehras/charts](https://github.com/tehras/charts) ⭐ 776 | 🐛 12 | 🌐 Kotlin | 📅 2026-03-03 - simple Android compose charts.
 * [WheelPickerCompose](https://github.com/commandiron/WheelPickerCompose) ⭐ 621 | 🐛 30 | 🌐 Kotlin | 📅 2024-05-16 - Wheel Date & Time Picker for Jetpack Compose.
-* [Collection of UIs and Animations built with Jetpack Compose for Android](https://github.com/prafullmishra/JetComposer) ⭐ 471 | 🐛 1 | 🌐 Kotlin | 📅 2021-10-23 - Collection of UIs and Animations built with Jetpack Compose for Android
+* [Collection of UIs and Animations built with Jetpack Compose for Android](https://github.com/prafullmishra/JetComposer) ⭐ 472 | 🐛 1 | 🌐 Kotlin | 📅 2021-10-23 - Collection of UIs and Animations built with Jetpack Compose for Android
 * [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) ⭐ 465 | 🐛 3 | 🌐 Kotlin | 📅 2021-10-02 - Neumorphism UI with Jetpack Compose. Just add simple `neumorphic()` modifier.
 * [Dropdown](https://github.com/AndroidPoet/Dropdown) ⭐ 420 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-24 - A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations
 * 🆕[](#08-11-23)[Animated Navigation Bar](https://github.com/exyte/AndroidAnimatedNavigationBar) ⭐ 412 | 🐛 6 | 🌐 Kotlin | 📅 2024-08-06 - A navigation bar with a number of preset animations
@@ -296,18 +296,18 @@
 
 ## <a name="app-projects"></a> App Projects
 
-* [Jetpack Compose Samples](https://github.com/android/compose-samples) ⭐ 23,399 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-21 (**+15.9K** ⭐) - Official repository with samples by Google
+* [Jetpack Compose Samples](https://github.com/android/compose-samples) ⭐ 23,402 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-21 (**+15.9K** ⭐) - Official repository with samples by Google
 * [sunflower](https://github.com/android/sunflower/tree/compose) ⚠️ Archived (**+16.8K** ⭐) - Sample app by Google
 * [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) ⭐ 3,654 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31 (**+2.8K** ⭐)
-* [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) ⭐ 3,450 | 🐛 18 | 🌐 Kotlin | 📅 2025-09-04 (**+2.9K** ⭐)
+* [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) ⭐ 3,451 | 🐛 18 | 🌐 Kotlin | 📅 2025-09-04 (**+2.9K** ⭐)
 * [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) ⭐ 968 | 🐛 2 | 🌐 Kotlin | 📅 2021-04-08 (**+870** ⭐)
-* [JetInstagram](https://github.com/vipulasri/JetInstagram) ⭐ 842 | 🐛 2 | 🌐 Kotlin | 📅 2022-07-09 (**+689** ⭐) - Instagram clone app built with Jetpack Compose
+* [JetInstagram](https://github.com/vipulasri/JetInstagram) ⭐ 843 | 🐛 2 | 🌐 Kotlin | 📅 2022-07-09 (**+689** ⭐) - Instagram clone app built with Jetpack Compose
 * [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) ⭐ 726 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09 (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
 * [Intro Showcase View](https://github.com/canopas/Intro-showcase-view) ⭐ 615 | 🐛 7 | 🌐 Kotlin | 📅 2024-12-26 (**+15** ⭐) - An android library to highlight different features of the app built using Jetpack Compose.
 * [JetQuotes](https://github.com/Spikeysanju/JetQuotes) ⭐ 550 | 🐛 9 | 🌐 Kotlin | 📅 2024-04-16 (**+363** ⭐) -  A Quotes Application
 * [flux](https://github.com/fidloo/flux) ⭐ 511 | 🐛 2 | 🌐 Kotlin | 📅 2023-05-11 (**+335** ⭐) - A fake weather app
 * [Wiggles](https://github.com/Spikeysanju/Wiggles) ⭐ 504 | 🐛 3 | 🌐 Kotlin | 📅 2021-09-07 (**+256** ⭐) - Beautiful Puppy adoption app with Jetpack Compose
-* [Jetpack-compose-animations-examples](https://github.com/canopas/Jetpack-compose-animations-examples) ⭐ 488 | 🐛 1 | 🌐 Kotlin | 📅 2024-12-26 (**+4** ⭐) - Cool animations implemented with Jetpack Compose.
+* [Jetpack-compose-animations-examples](https://github.com/canopas/Jetpack-compose-animations-examples) ⭐ 489 | 🐛 1 | 🌐 Kotlin | 📅 2024-12-26 (**+4** ⭐) - Cool animations implemented with Jetpack Compose.
 * [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) ⭐ 472 | 🐛 0 | 🌐 Kotlin | 📅 2024-10-21 (**+255** ⭐) - 2048 implemented using Jetpack Compose
 * [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator) ⭐ 314 | 🐛 2 | 🌐 Kotlin | 📅 2020-08-11 (**+272** ⭐)
 * [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) ⭐ 285 | 🐛 4 | 🌐 Kotlin | 📅 2022-01-09 (**+198** ⭐) -  Chrome's Dino T-Rex game developed in Jetpack Compose
@@ -332,7 +332,7 @@
 
 ## Compose Desktop Projects
 
-* [Compose JB](https://github.com/JetBrains/compose-jb) ⭐ 19,315 | 🐛 31 | 🌐 Kotlin | 📅 2026-08-24 - Jetpack Compose for Desktop and Web
+* [Compose JB](https://github.com/JetBrains/compose-jb) ⭐ 19,317 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-24 - Jetpack Compose for Desktop and Web
 * [ComposeSlackDesktop](https://github.com/vipulasri/ComposeSlackDesktop) ⭐ 297 | 🐛 0 | 🌐 Kotlin | 📅 2021-01-17 - A Slack demo app for desktop using Jetpack Compose
 
 ## Other projects
@@ -358,4 +358,4 @@ Support it by joining stargazers for this repository. ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
