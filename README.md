@@ -304,7 +304,7 @@
 * [JetInstagram](https://github.com/vipulasri/JetInstagram) ⭐ 843 | 🐛 2 | 🌐 Kotlin | 📅 2022-07-09 (**+689** ⭐) - Instagram clone app built with Jetpack Compose
 * [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) ⭐ 726 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09 (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
 * [Intro Showcase View](https://github.com/canopas/Intro-showcase-view) ⭐ 615 | 🐛 7 | 🌐 Kotlin | 📅 2024-12-26 (**+15** ⭐) - An android library to highlight different features of the app built using Jetpack Compose.
-* [JetQuotes](https://github.com/Spikeysanju/JetQuotes) ⭐ 550 | 🐛 9 | 🌐 Kotlin | 📅 2024-04-16 (**+363** ⭐) -  A Quotes Application
+* [JetQuotes](https://github.com/Spikeysanju/JetQuotes) ⭐ 551 | 🐛 9 | 🌐 Kotlin | 📅 2024-04-16 (**+363** ⭐) -  A Quotes Application
 * [flux](https://github.com/fidloo/flux) ⭐ 511 | 🐛 2 | 🌐 Kotlin | 📅 2023-05-11 (**+335** ⭐) - A fake weather app
 * [Wiggles](https://github.com/Spikeysanju/Wiggles) ⭐ 504 | 🐛 3 | 🌐 Kotlin | 📅 2021-09-07 (**+256** ⭐) - Beautiful Puppy adoption app with Jetpack Compose
 * [Jetpack-compose-animations-examples](https://github.com/canopas/Jetpack-compose-animations-examples) ⭐ 489 | 🐛 1 | 🌐 Kotlin | 📅 2024-12-26 (**+4** ⭐) - Cool animations implemented with Jetpack Compose.
@@ -332,7 +332,7 @@
 
 ## Compose Desktop Projects
 
-* [Compose JB](https://github.com/JetBrains/compose-jb) ⭐ 19,317 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-24 - Jetpack Compose for Desktop and Web
+* [Compose JB](https://github.com/JetBrains/compose-jb) ⭐ 19,317 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-25 - Jetpack Compose for Desktop and Web
 * [ComposeSlackDesktop](https://github.com/vipulasri/ComposeSlackDesktop) ⭐ 297 | 🐛 0 | 🌐 Kotlin | 📅 2021-01-17 - A Slack demo app for desktop using Jetpack Compose
 
 ## Other projects

@@ -27,7 +27,7 @@
             "archived": false,
             "id": 256589781,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T01:22:36Z",
+            "last_commit": "2026-08-25T05:02:21Z",
             "owner": "androidx",
             "repo": "androidx",
             "stars": 6068
@@ -337,7 +337,7 @@
         },
         {
           "node_type": "item",
-          "title": "🆕",
+          "title": "compose-recyclerview",
           "description": "compose-recyclerview - A library that allows seamless integration of composables in RecyclerView, addressing performance concerns and LazyList issues. Enjoy improved rendering performance, built-in drag-and-drop support, flexible configuration, and easy handling of multiple item types for dynamic UIs.",
           "children": [],
           "repo_info": {
@@ -384,7 +384,7 @@
             },
             {
               "node_type": "item",
-              "title": "🆕",
+              "title": "Compose-Rich-Editor",
               "description": "Compose-Rich-Editor - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,",
               "children": [],
               "repo_info": {
@@ -399,7 +399,7 @@
             },
             {
               "node_type": "item",
-              "title": "🆕",
+              "title": "telephoto",
               "description": "telephoto - Building blocks for designing media experiences in Compose UI",
               "children": [],
               "repo_info": {
@@ -519,7 +519,7 @@
             },
             {
               "node_type": "item",
-              "title": "🆕",
+              "title": "Animated Navigation Bar",
               "description": "Animated Navigation Bar - A navigation bar with a number of preset animations",
               "children": [],
               "repo_info": {
@@ -549,7 +549,7 @@
             },
             {
               "node_type": "item",
-              "title": "🆕",
+              "title": "minabox",
               "description": "minabox - Lazy box library for Jetpack Compose, which allows to display lazy loaded items on the 2D plane.",
               "children": [],
               "repo_info": {
@@ -624,7 +624,7 @@
             },
             {
               "node_type": "item",
-              "title": "🆕",
+              "title": "Blueprint",
               "description": "Blueprint - 📐 library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.",
               "children": [],
               "repo_info": {
@@ -915,7 +915,7 @@
             "last_commit": "2024-04-16T13:57:16Z",
             "owner": "Spikeysanju",
             "repo": "JetQuotes",
-            "stars": 550
+            "stars": 551
           }
         },
         {
@@ -1158,7 +1158,7 @@
             "archived": false,
             "id": 293498508,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T18:56:50Z",
+            "last_commit": "2026-08-25T03:19:59Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
             "stars": 19317
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:52:09.927Z",
+    "last_updated": "2026-08-25T05:56:41.527Z",
     "original_repository": "jetpack-compose/jetpack-compose-awesome",
     "original_repository_id": 297828590,
     "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",
