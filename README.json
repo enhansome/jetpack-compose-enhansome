@@ -15,8 +15,9 @@
             "last_commit": "2026-06-28T12:31:21Z",
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6872
-          }
+            "stars": 6873
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 256589781,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T12:09:40Z",
+            "last_commit": "2026-08-28T13:26:47Z",
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6071
-          }
+            "stars": 6072
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         }
       ],
       "title": "Docs"
@@ -52,7 +54,8 @@
             "owner": "airbnb",
             "repo": "Showkase",
             "stars": 2317
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "pedrovgs",
             "repo": "Shot",
             "stars": 1206
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "pocmo",
             "repo": "recompose",
             "stars": 816
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         }
       ],
       "title": "Tools"
@@ -105,7 +110,8 @@
                 "owner": "raamcosta",
                 "repo": "compose-destinations",
                 "stars": 3388
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -119,8 +125,9 @@
                 "last_commit": "2026-06-06T18:13:22Z",
                 "owner": "adrielcafe",
                 "repo": "voyager",
-                "stars": 3089
-              }
+                "stars": 3090
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -135,7 +142,8 @@
                 "owner": "bumble-tech",
                 "repo": "appyx",
                 "stars": 1259
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -150,7 +158,8 @@
                 "owner": "olshevski",
                 "repo": "compose-navigation-reimagined",
                 "stars": 569
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -165,7 +174,8 @@
                 "owner": "rjrjr",
                 "repo": "compose-backstack",
                 "stars": 510
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -180,7 +190,8 @@
                 "owner": "ikarenkov",
                 "repo": "Modo",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             }
           ],
           "description": "Libraries\nArticles",
@@ -202,7 +213,8 @@
                 "owner": "KakaoCup",
                 "repo": "Compose",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             }
           ],
           "description": null,
@@ -228,7 +240,8 @@
             "owner": "google",
             "repo": "accompanist",
             "stars": 7828
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -243,7 +256,8 @@
             "owner": "skydoves",
             "repo": "landscapist",
             "stars": 2575
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -258,7 +272,8 @@
             "owner": "Calvin-LL",
             "repo": "Reorderable",
             "stars": 1328
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -273,7 +288,8 @@
             "owner": "jeziellago",
             "repo": "compose-markdown",
             "stars": 863
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -288,7 +304,8 @@
             "owner": "DevSrSouza",
             "repo": "compose-icons",
             "stars": 859
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -303,7 +320,8 @@
             "owner": "adrielcafe",
             "repo": "lyricist",
             "stars": 811
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -318,7 +336,8 @@
             "owner": "rjrjr",
             "repo": "compose-backstack",
             "stars": 510
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -333,7 +352,8 @@
             "owner": "chrisbanes",
             "repo": "snapper",
             "stars": 462
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -348,7 +368,8 @@
             "owner": "canopas",
             "repo": "compose-recyclerview",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -363,7 +384,8 @@
             "owner": "Calvin-LL",
             "repo": "AutoLinkText",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "children": [
@@ -380,7 +402,8 @@
                 "owner": "DanielMartinus",
                 "repo": "Konfetti",
                 "stars": 3385
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -391,11 +414,12 @@
                 "archived": false,
                 "id": 630584174,
                 "language": "Kotlin",
-                "last_commit": "2026-08-21T15:03:48Z",
+                "last_commit": "2026-08-27T15:15:03Z",
                 "owner": "MohamedRejeb",
                 "repo": "compose-rich-editor",
                 "stars": 1837
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -410,7 +434,8 @@
                 "owner": "saket",
                 "repo": "telephoto",
                 "stars": 1549
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -425,7 +450,8 @@
                 "owner": "leinardi",
                 "repo": "FloatingActionButtonSpeedDial",
                 "stars": 1475
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -440,7 +466,8 @@
                 "owner": "halilozercan",
                 "repo": "compose-richtext",
                 "stars": 988
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -455,7 +482,8 @@
                 "owner": "tehras",
                 "repo": "charts",
                 "stars": 777
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -470,7 +498,8 @@
                 "owner": "commandiron",
                 "repo": "WheelPickerCompose",
                 "stars": 621
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -485,7 +514,8 @@
                 "owner": "prafullmishra",
                 "repo": "JetComposer",
                 "stars": 472
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -500,7 +530,8 @@
                 "owner": "CuriousNikhil",
                 "repo": "neumorphic-compose",
                 "stars": 465
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -515,7 +546,8 @@
                 "owner": "AndroidPoet",
                 "repo": "Dropdown",
                 "stars": 420
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -530,7 +562,8 @@
                 "owner": "exyte",
                 "repo": "AndroidAnimatedNavigationBar",
                 "stars": 412
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -545,7 +578,8 @@
                 "owner": "boguszpawlowski",
                 "repo": "ComposeCalendar",
                 "stars": 382
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -560,7 +594,8 @@
                 "owner": "oleksandrbalan",
                 "repo": "minabox",
                 "stars": 355
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -575,7 +610,8 @@
                 "owner": "SimformSolutionsPvtLtd",
                 "repo": "SSJetPackComposeProgressButton",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -590,7 +626,8 @@
                 "owner": "a914-gowtham",
                 "repo": "compose-ratingbar",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -605,7 +642,8 @@
                 "owner": "canopas",
                 "repo": "compose-animated-navigationbar",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -620,7 +658,8 @@
                 "owner": "omkar-tenkale",
                 "repo": "ExplodingComposable",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -635,7 +674,8 @@
                 "owner": "popovanton0",
                 "repo": "Blueprint",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -650,7 +690,8 @@
                 "owner": "radusalagean",
                 "repo": "info-bar-compose",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -665,7 +706,8 @@
                 "owner": "SimformSolutionsPvtLtd",
                 "repo": "SSJetpackComposeSwipeableView",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -680,7 +722,8 @@
                 "owner": "lcdsmao",
                 "repo": "Dark-Toggle-Button-Sample-Jetpack-Compose",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -695,7 +738,8 @@
                 "owner": "seyoungcho2",
                 "repo": "ComposeDynamicTheme",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -710,7 +754,8 @@
                 "owner": "ValeryPonomarenko",
                 "repo": "compose-shimmer",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -725,7 +770,8 @@
                 "owner": "canopas",
                 "repo": "rich-editor-compose",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -740,7 +786,8 @@
                 "owner": "IlyaPavlovskii",
                 "repo": "YouTubePlayer",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -755,7 +802,8 @@
                 "owner": "popovanton0",
                 "repo": "heart-switch",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             },
             {
               "node_type": "item",
@@ -770,7 +818,8 @@
                 "owner": "krottv",
                 "repo": "compose-sliders",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
             }
           ],
           "description": null,
@@ -795,8 +844,9 @@
             "last_commit": "2026-08-21T10:08:21Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23413
-          }
+            "stars": 23418
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -811,7 +861,8 @@
             "owner": "android",
             "repo": "sunflower",
             "stars": 17765
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -825,8 +876,9 @@
             "last_commit": "2026-03-31T14:29:55Z",
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3654
-          }
+            "stars": 3655
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -840,8 +892,9 @@
             "last_commit": "2025-09-04T22:43:30Z",
             "owner": "vinaygaba",
             "repo": "Learn-Jetpack-Compose-By-Example",
-            "stars": 3451
-          }
+            "stars": 3452
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -856,7 +909,8 @@
             "owner": "hitherejoe",
             "repo": "ComposeAcademy-Playground",
             "stars": 967
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -871,7 +925,8 @@
             "owner": "vipulasri",
             "repo": "JetInstagram",
             "stars": 844
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -886,7 +941,8 @@
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSComposeCookBook",
             "stars": 726
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -901,7 +957,8 @@
             "owner": "canopas",
             "repo": "compose-intro-showcase",
             "stars": 615
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -916,7 +973,8 @@
             "owner": "Spikeysanju",
             "repo": "JetQuotes",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -931,7 +989,8 @@
             "owner": "fidloo",
             "repo": "flux",
             "stars": 511
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1005,8 @@
             "owner": "Spikeysanju",
             "repo": "Wiggles",
             "stars": 504
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -961,7 +1021,8 @@
             "owner": "canopas",
             "repo": "compose-animations-examples",
             "stars": 489
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -976,7 +1037,8 @@
             "owner": "alexjlockwood",
             "repo": "compose-multiplatform-2048",
             "stars": 472
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -991,7 +1053,8 @@
             "owner": "ahmedrizwan",
             "repo": "JetpackComposeCalculator",
             "stars": 314
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -1006,7 +1069,8 @@
             "owner": "wajahatkarim3",
             "repo": "DinoCompose",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -1021,7 +1085,8 @@
             "owner": "halilozercan",
             "repo": "compose-schedule-calendar",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1101,8 @@
             "owner": "gastsail",
             "repo": "JetExample",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1117,8 @@
             "owner": "AnkitSuda",
             "repo": "Rebound",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -1066,7 +1133,8 @@
             "owner": "shorthouse",
             "repo": "CoinWatch",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1149,8 @@
             "owner": "ahmed7official",
             "repo": "Facebook-Timeline-Compose-Android",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -1096,7 +1165,8 @@
             "owner": "ericktijerou",
             "repo": "jettimer",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -1111,7 +1181,8 @@
             "owner": "ericktijerou",
             "repo": "jetpuppy",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -1126,7 +1197,8 @@
             "owner": "adrianblancode",
             "repo": "Cheddar",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -1141,7 +1213,8 @@
             "owner": "RajashekarRaju",
             "repo": "jetpack-compose-samples",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         }
       ],
       "title": "App Projects"
@@ -1158,11 +1231,12 @@
             "archived": false,
             "id": 293498508,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T10:36:36Z",
+            "last_commit": "2026-08-28T12:25:51Z",
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19323
-          }
+            "stars": 19329
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -1177,7 +1251,8 @@
             "owner": "vipulasri",
             "repo": "compose-slack-desktop",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         }
       ],
       "title": "Compose Desktop Projects"
@@ -1198,7 +1273,8 @@
             "owner": "adibfara",
             "repo": "ComposeClock",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         }
       ],
       "title": "Other projects"
@@ -1218,15 +1294,16 @@
             "last_commit": "2026-03-31T14:29:55Z",
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3654
-          }
+            "stars": 3655
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         }
       ],
       "title": "Extras"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:15:02.722Z",
+    "last_updated": "2026-08-28T13:37:53.075Z",
     "original_repository_info": {
       "archived": false,
       "id": 297828590,
