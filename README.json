@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:26:29Z",
+            "last_commit": "2026-08-29T06:38:27Z",
             "open_issues": 57,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6072,
+            "stars": 6073,
             "topics": [
               "android",
               "jetpack",
@@ -432,7 +432,7 @@
             "open_issues": 11,
             "owner": "google",
             "repo": "accompanist",
-            "stars": 7827,
+            "stars": 7828,
             "topics": [
               "android-library",
               "jetpack-compose"
@@ -1523,7 +1523,7 @@
             "open_issues": 8,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23419,
+            "stars": 23421,
             "topics": [
               "android",
               "jetpack-compose",
@@ -2025,7 +2025,7 @@
             "open_issues": 4,
             "owner": "shorthouse",
             "repo": "CoinWatch",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "android",
               "android-clean-architecture",
@@ -2353,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:25:04.325Z",
+    "last_updated": "2026-08-29T08:28:56.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
