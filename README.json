@@ -46,7 +46,7 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T06:38:27Z",
+            "last_commit": "2026-08-30T05:11:03Z",
             "open_issues": 57,
             "owner": "androidx",
             "repo": "androidx",
@@ -111,7 +111,7 @@
             "open_issues": 63,
             "owner": "pedrovgs",
             "repo": "Shot",
-            "stars": 1206,
+            "stars": 1207,
             "topics": [
               "android",
               "gradle-plugin",
@@ -389,7 +389,7 @@
                 "open_issues": 15,
                 "owner": "KakaoCup",
                 "repo": "Compose",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "android",
                   "android-testing",
@@ -432,7 +432,7 @@
             "open_issues": 11,
             "owner": "google",
             "repo": "accompanist",
-            "stars": 7828,
+            "stars": 7829,
             "topics": [
               "android-library",
               "jetpack-compose"
@@ -491,7 +491,7 @@
             "open_issues": 29,
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1328,
+            "stars": 1329,
             "topics": [
               "android",
               "compose-multiplatform",
@@ -754,11 +754,11 @@
                 "id": 630584174,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T15:15:03Z",
-                "open_issues": 84,
+                "last_commit": "2026-08-29T18:04:56Z",
+                "open_issues": 78,
                 "owner": "MohamedRejeb",
                 "repo": "compose-rich-editor",
-                "stars": 1837,
+                "stars": 1839,
                 "topics": [
                   "android",
                   "android-library",
@@ -797,10 +797,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-22T17:59:36Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "saket",
                 "repo": "telephoto",
-                "stars": 1549,
+                "stars": 1550,
                 "topics": [
                   "android",
                   "compose",
@@ -829,7 +829,7 @@
                 "open_issues": 44,
                 "owner": "leinardi",
                 "repo": "FloatingActionButtonSpeedDial",
-                "stars": 1475,
+                "stars": 1474,
                 "topics": [
                   "android",
                   "android-library",
@@ -1523,7 +1523,7 @@
             "open_issues": 8,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23421,
+            "stars": 23423,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1924,7 +1924,7 @@
             "open_issues": 4,
             "owner": "wajahatkarim3",
             "repo": "DinoCompose",
-            "stars": 286,
+            "stars": 285,
             "topics": [
               "android",
               "android-app",
@@ -2025,7 +2025,7 @@
             "open_issues": 4,
             "owner": "shorthouse",
             "repo": "CoinWatch",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "android",
               "android-clean-architecture",
@@ -2232,7 +2232,7 @@
             "open_issues": 30,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19326,
+            "stars": 19329,
             "topics": [
               "android",
               "awt",
@@ -2353,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:28:56.806Z",
+    "last_updated": "2026-08-30T07:42:45.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
