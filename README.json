@@ -46,7 +46,7 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T02:51:38Z",
+            "last_commit": "2026-09-07T05:35:04Z",
             "open_issues": 57,
             "owner": "androidx",
             "repo": "androidx",
@@ -452,8 +452,8 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T21:53:46Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-07T03:35:34Z",
+            "open_issues": 6,
             "owner": "skydoves",
             "repo": "landscapist",
             "stars": 2577,
@@ -758,7 +758,7 @@
                 "open_issues": 80,
                 "owner": "MohamedRejeb",
                 "repo": "compose-rich-editor",
-                "stars": 1842,
+                "stars": 1841,
                 "topics": [
                   "android",
                   "android-library",
@@ -1520,10 +1520,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T21:12:44Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23435,
+            "stars": 23437,
             "topics": [
               "android",
               "jetpack-compose",
@@ -2229,10 +2229,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-09-05T03:14:54Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19339,
+            "stars": 19342,
             "topics": [
               "android",
               "awt",
@@ -2353,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:43:04.043Z",
+    "last_updated": "2026-09-07T06:51:25.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
