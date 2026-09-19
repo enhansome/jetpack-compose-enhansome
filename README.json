@@ -15,11 +15,11 @@
             "id": 293227683,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-09-15T22:49:51Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-19T00:05:14Z",
+            "open_issues": 7,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6877,
+            "stars": 6878,
             "topics": [
               "android",
               "android-ui",
@@ -46,7 +46,7 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T06:34:04Z",
+            "last_commit": "2026-09-19T01:24:27Z",
             "open_issues": 58,
             "owner": "androidx",
             "repo": "androidx",
@@ -81,7 +81,7 @@
             "open_issues": 68,
             "owner": "airbnb",
             "repo": "Showkase",
-            "stars": 2320,
+            "stars": 2319,
             "topics": [
               "android",
               "android-library",
@@ -209,7 +209,7 @@
                 "open_issues": 196,
                 "owner": "adrielcafe",
                 "repo": "voyager",
-                "stars": 3089,
+                "stars": 3088,
                 "topics": [
                   "android",
                   "android-compose",
@@ -250,7 +250,7 @@
                 "open_issues": 82,
                 "owner": "bumble-tech",
                 "repo": "appyx",
-                "stars": 1259,
+                "stars": 1260,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -452,11 +452,11 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T14:15:42Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-18T20:34:57Z",
+            "open_issues": 4,
             "owner": "skydoves",
             "repo": "landscapist",
-            "stars": 2582,
+            "stars": 2583,
             "topics": [
               "android",
               "compose",
@@ -491,7 +491,7 @@
             "open_issues": 29,
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1349,
+            "stars": 1352,
             "topics": [
               "android",
               "compose-multiplatform",
@@ -520,8 +520,8 @@
             "id": 344487553,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-08-20T20:55:02Z",
-            "open_issues": 53,
+            "last_commit": "2026-09-18T18:54:12Z",
+            "open_issues": 54,
             "owner": "jeziellago",
             "repo": "compose-markdown",
             "stars": 866,
@@ -550,7 +550,7 @@
             "open_issues": 21,
             "owner": "DevSrSouza",
             "repo": "compose-icons",
-            "stars": 858,
+            "stars": 857,
             "topics": [
               "android",
               "compose-ios",
@@ -758,7 +758,7 @@
                 "open_issues": 82,
                 "owner": "MohamedRejeb",
                 "repo": "compose-rich-editor",
-                "stars": 1854,
+                "stars": 1853,
                 "topics": [
                   "android",
                   "android-library",
@@ -977,7 +977,7 @@
                 "open_issues": 4,
                 "owner": "CuriousNikhil",
                 "repo": "neumorphic-compose",
-                "stars": 467,
+                "stars": 466,
                 "topics": [
                   "jetpack-compose",
                   "kotlin",
@@ -999,7 +999,7 @@
                 "id": 485185020,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T17:15:05Z",
+                "last_commit": "2026-09-18T21:54:57Z",
                 "open_issues": 11,
                 "owner": "AndroidPoet",
                 "repo": "Dropdown",
@@ -1033,7 +1033,7 @@
                 "open_issues": 6,
                 "owner": "exyte",
                 "repo": "AndroidAnimatedNavigationBar",
-                "stars": 414,
+                "stars": 413,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:37:53.075Z"
@@ -1519,11 +1519,11 @@
             "id": 211288349,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T19:34:18Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-18T15:48:36Z",
+            "open_issues": 9,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23463,
+            "stars": 23464,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1548,7 +1548,7 @@
             "open_issues": 76,
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17761,
+            "stars": 17760,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:53.075Z"
@@ -1569,7 +1569,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3655,
+            "stars": 3656,
             "topics": [
               "android",
               "androidx",
@@ -1601,7 +1601,7 @@
             "open_issues": 18,
             "owner": "vinaygaba",
             "repo": "Learn-Jetpack-Compose-By-Example",
-            "stars": 3451,
+            "stars": 3450,
             "topics": [
               "android",
               "android-ui",
@@ -1654,7 +1654,7 @@
             "open_issues": 2,
             "owner": "vipulasri",
             "repo": "JetInstagram",
-            "stars": 843,
+            "stars": 842,
             "topics": [
               "android",
               "instagram",
@@ -1852,7 +1852,7 @@
             "open_issues": 1,
             "owner": "canopas",
             "repo": "compose-animations-examples",
-            "stars": 490,
+            "stars": 489,
             "topics": [
               "android",
               "android-app",
@@ -2228,11 +2228,11 @@
             "id": 293498508,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T03:24:25Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-19T03:17:13Z",
+            "open_issues": 26,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19367,
+            "stars": 19372,
             "topics": [
               "android",
               "awt",
@@ -2332,7 +2332,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3655,
+            "stars": 3656,
             "topics": [
               "android",
               "androidx",
@@ -2353,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T06:54:55.759Z",
+    "last_updated": "2026-09-19T06:53:41.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
