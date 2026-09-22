@@ -36,7 +36,7 @@
 ## Docs
 
 * [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) ⭐ 6,879 | 🐛 7 | 🌐 Kotlin | 📅 2026-09-19
-* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,095 | 🐛 58 | 🌐 Kotlin | 📅 2026-09-21
+* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,095 | 🐛 58 | 🌐 Kotlin | 📅 2026-09-22
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
 * [Jetpack Compose Codelabs](https://developer.android.com/codelabs/jetpack-compose-basics)
 * [Jetpack Compose Roadmap](https://developer.android.com/jetpack/androidx/compose-roadmap)
@@ -51,7 +51,7 @@
 
 ## Tools
 
-* [Showkase](https://github.com/airbnb/Showkase) ⭐ 2,319 | 🐛 68 | 🌐 Kotlin | 📅 2026-03-27 - Helps you organize, discover, search and visualize Jetpack Compose UI elements
+* [Showkase](https://github.com/airbnb/Showkase) ⭐ 2,320 | 🐛 68 | 🌐 Kotlin | 📅 2026-03-27 - Helps you organize, discover, search and visualize Jetpack Compose UI elements
 * [Shot](https://github.com/Karumi/Shot) ⭐ 1,208 | 🐛 63 | 🌐 Kotlin | 📅 2026-01-16 - Jetpack Compose screenshot testing tool
 * [recompose](https://github.com/pocmo/recompose) ⭐ 815 | 🐛 23 | 🌐 Kotlin | 📅 2023-03-03 -  A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose.
 * [Jetpack Compose Playground](https://foso.github.io/Jetpack-Compose-Playground/)
@@ -254,9 +254,9 @@
 ## Libraries
 
 * [accompanist](https://github.com/chrisbanes/accompanist) ⭐ 7,835 | 🐛 12 | 🌐 Kotlin | 📅 2025-08-18 -  A collection of extension libraries for Jetpack Compose
-* [Landscapist](https://github.com/skydoves/Landscapist) ⭐ 2,583 | 🐛 5 | 🌐 Kotlin | 📅 2026-09-18 - image loading using Glide, Coil, Fresco
-* [Reorderable](https://github.com/Calvin-LL/Reorderable) ⭐ 1,353 | 🐛 29 | 🌐 Kotlin | 📅 2026-04-20 - Reorder items in Lists and Grids with drag and drop
-* [compose-markdown](https://github.com/jeziellago/compose-markdown) ⭐ 866 | 🐛 54 | 🌐 Kotlin | 📅 2026-09-18 - Markdown Text for Android Jetpack Compose
+* [Landscapist](https://github.com/skydoves/Landscapist) ⭐ 2,584 | 🐛 5 | 🌐 Kotlin | 📅 2026-09-18 - image loading using Glide, Coil, Fresco
+* [Reorderable](https://github.com/Calvin-LL/Reorderable) ⭐ 1,354 | 🐛 29 | 🌐 Kotlin | 📅 2026-04-20 - Reorder items in Lists and Grids with drag and drop
+* [compose-markdown](https://github.com/jeziellago/compose-markdown) ⭐ 868 | 🐛 54 | 🌐 Kotlin | 📅 2026-09-18 - Markdown Text for Android Jetpack Compose
 * [compose-icons](https://github.com/DevSrSouza/compose-icons) ⭐ 857 | 🐛 21 | 🌐 Kotlin | 📅 2024-09-15 - Open Source icon packs for Jetpack Compose including Font Awesome, Simple Icons, Feather and more.
 * [lyricist](https://github.com/adrielcafe/lyricist) ⭐ 811 | 🐛 13 | 🌐 Kotlin | 📅 2026-07-21 - The missing I18N/L10N (internationalization/localization) library for Jetpack Compose!
 * [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) ⚠️ Archived - Simple composable for rendering transitions between backstacks.
@@ -275,14 +275,14 @@
 * [WheelPickerCompose](https://github.com/commandiron/WheelPickerCompose) ⭐ 624 | 🐛 30 | 🌐 Kotlin | 📅 2024-05-16 - Wheel Date & Time Picker for Jetpack Compose.
 * [Collection of UIs and Animations built with Jetpack Compose for Android](https://github.com/prafullmishra/JetComposer) ⭐ 473 | 🐛 1 | 🌐 Kotlin | 📅 2021-10-23 - Collection of UIs and Animations built with Jetpack Compose for Android
 * [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) ⭐ 466 | 🐛 4 | 🌐 Kotlin | 📅 2021-10-02 - Neumorphism UI with Jetpack Compose. Just add simple `neumorphic()` modifier.
-* [Dropdown](https://github.com/AndroidPoet/Dropdown) ⭐ 420 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-18 - A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations
+* [Dropdown](https://github.com/AndroidPoet/Dropdown) ⭐ 420 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-21 - A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations
 * 🆕[](#08-11-23)[Animated Navigation Bar](https://github.com/exyte/AndroidAnimatedNavigationBar) ⭐ 413 | 🐛 6 | 🌐 Kotlin | 📅 2024-08-06 - A navigation bar with a number of preset animations
 * [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) ⭐ 383 | 🐛 7 | 🌐 Kotlin | 📅 2025-02-16 - A Jetpack Compose library for handling calendar component rendering.
 * 🆕[](#28-05-23) [minabox](https://github.com/oleksandrbalan/minabox) ⭐ 355 | 🐛 5 | 🌐 Kotlin | 📅 2025-02-21 - Lazy box library for Jetpack Compose, which allows to display lazy loaded items on the 2D plane.
 * [ProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) ⭐ 329 | 🐛 1 | 🌐 Kotlin | 📅 2024-11-25 - SSJetPackComposeProgressButton is an elegant button with a different loading animations which makes your app attractive.
 * [compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar) ⭐ 251 | 🐛 4 | 🌐 Kotlin | 📅 2025-07-31 - Ratingbar for Jetpack Compose.
 * [Animated BottomBar Compose](https://github.com/canopas/compose-animated-navigationbar) ⭐ 223 | 🐛 0 | 🌐 Kotlin | 📅 2024-12-26 - A Jetpack Compose library that simplifies the creation of stylish Bottom Navigation Bars with customizable animations. It allows you to easily integrate attractive navigation bars into your Android app, enhancing the user experience.
-* [Exploding Composable](https://github.com/omkar-tenkale/ExplodingComposable) ⭐ 188 | 🐛 1 | 🌐 Kotlin | 📅 2023-04-12 - A Jetpack Compose utility library to add explosive dust effect animation to any composable
+* [Exploding Composable](https://github.com/omkar-tenkale/ExplodingComposable) ⭐ 189 | 🐛 1 | 🌐 Kotlin | 📅 2023-04-12 - A Jetpack Compose utility library to add explosive dust effect animation to any composable
 * 🆕[](#08-11-23)[Blueprint](https://github.com/popovanton0/Blueprint) ⭐ 164 | 🐛 0 | 🌐 Kotlin | 📅 2025-08-28 - 📐 library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 * [info-bar-compose](https://github.com/radusalagean/info-bar-compose) ⚠️ Archived - Display Snackbar-style messages, the easy way.
 * [SwipeAbleViews](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) ⭐ 113 | 🐛 0 | 🌐 Kotlin | 📅 2022-07-27 - SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
@@ -296,13 +296,13 @@
 
 ## <a name="app-projects"></a> App Projects
 
-* [Jetpack Compose Samples](https://github.com/android/compose-samples) ⭐ 23,467 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-21 (**+15.9K** ⭐) - Official repository with samples by Google
+* [Jetpack Compose Samples](https://github.com/android/compose-samples) ⭐ 23,471 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21 (**+15.9K** ⭐) - Official repository with samples by Google
 * [sunflower](https://github.com/android/sunflower/tree/compose) ⚠️ Archived (**+16.8K** ⭐) - Sample app by Google
 * [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) ⭐ 3,656 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31 (**+2.8K** ⭐)
 * [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) ⭐ 3,450 | 🐛 18 | 🌐 Kotlin | 📅 2025-09-04 (**+2.9K** ⭐)
 * [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) ⭐ 967 | 🐛 2 | 🌐 Kotlin | 📅 2021-04-08 (**+870** ⭐)
 * [JetInstagram](https://github.com/vipulasri/JetInstagram) ⭐ 843 | 🐛 2 | 🌐 Kotlin | 📅 2022-07-09 (**+689** ⭐) - Instagram clone app built with Jetpack Compose
-* [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) ⭐ 726 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09 (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
+* [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) ⭐ 727 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09 (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
 * [Intro Showcase View](https://github.com/canopas/Intro-showcase-view) ⭐ 616 | 🐛 7 | 🌐 Kotlin | 📅 2024-12-26 (**+15** ⭐) - An android library to highlight different features of the app built using Jetpack Compose.
 * [JetQuotes](https://github.com/Spikeysanju/JetQuotes) ⭐ 551 | 🐛 9 | 🌐 Kotlin | 📅 2024-04-16 (**+363** ⭐) -  A Quotes Application
 * [flux](https://github.com/fidloo/flux) ⭐ 511 | 🐛 2 | 🌐 Kotlin | 📅 2023-05-11 (**+335** ⭐) - A fake weather app
@@ -332,7 +332,7 @@
 
 ## Compose Desktop Projects
 
-* [Compose JB](https://github.com/JetBrains/compose-jb) ⭐ 19,376 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-19 - Jetpack Compose for Desktop and Web
+* [Compose JB](https://github.com/JetBrains/compose-jb) ⭐ 19,378 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-22 - Jetpack Compose for Desktop and Web
 * [ComposeSlackDesktop](https://github.com/vipulasri/ComposeSlackDesktop) ⭐ 298 | 🐛 0 | 🌐 Kotlin | 📅 2021-01-17 - A Slack demo app for desktop using Jetpack Compose
 
 ## Other projects
@@ -358,4 +358,4 @@ Support it by joining stargazers for this repository. ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
