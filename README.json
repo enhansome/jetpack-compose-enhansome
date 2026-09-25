@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T05:50:17Z",
+            "last_commit": "2026-09-25T06:36:05Z",
             "open_issues": 58,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6099,
+            "stars": 6100,
             "topics": [
               "android",
               "jetpack",
@@ -177,7 +177,7 @@
                 "open_issues": 54,
                 "owner": "raamcosta",
                 "repo": "compose-destinations",
-                "stars": 3390,
+                "stars": 3389,
                 "topics": [
                   "android",
                   "android-library",
@@ -432,7 +432,7 @@
             "open_issues": 12,
             "owner": "google",
             "repo": "accompanist",
-            "stars": 7835,
+            "stars": 7836,
             "topics": [
               "android-library",
               "jetpack-compose"
@@ -452,7 +452,7 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T23:03:55Z",
+            "last_commit": "2026-09-25T05:03:59Z",
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
@@ -491,7 +491,7 @@
             "open_issues": 29,
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1356,
+            "stars": 1357,
             "topics": [
               "android",
               "compose-multiplatform",
@@ -755,7 +755,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-07T15:06:23Z",
-                "open_issues": 82,
+                "open_issues": 84,
                 "owner": "MohamedRejeb",
                 "repo": "compose-rich-editor",
                 "stars": 1855,
@@ -999,7 +999,7 @@
                 "id": 485185020,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T21:58:04Z",
+                "last_commit": "2026-09-24T21:51:10Z",
                 "open_issues": 11,
                 "owner": "AndroidPoet",
                 "repo": "Dropdown",
@@ -1520,10 +1520,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T20:43:04Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23477,
+            "stars": 23476,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1717,7 +1717,7 @@
             "open_issues": 7,
             "owner": "canopas",
             "repo": "compose-intro-showcase",
-            "stars": 616,
+            "stars": 617,
             "topics": [
               "android",
               "android-development",
@@ -2228,11 +2228,11 @@
             "id": 293498508,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T03:18:30Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-25T03:15:13Z",
+            "open_issues": 25,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19383,
+            "stars": 19386,
             "topics": [
               "android",
               "awt",
@@ -2353,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T07:00:08.285Z",
+    "last_updated": "2026-09-25T06:55:27.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
@@ -2365,7 +2365,7 @@
       "open_issues": 21,
       "owner": "jetpack-compose",
       "repo": "jetpack-compose-awesome",
-      "stars": 2605,
+      "stars": 2606,
       "topics": [
         "android",
         "android-jetpack",
