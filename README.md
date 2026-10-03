@@ -267,7 +267,7 @@
 ### UI
 
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,391 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - Easily celebrate little and big moments in your app with this lightweight confetti particle system 🎊
-* 🆕[](#28-05-23)[Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) ⭐ 1,858 | 🐛 85 | 🌐 Kotlin | 📅 2026-10-01 - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,
+* 🆕[](#28-05-23)[Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) ⭐ 1,858 | 🐛 85 | 🌐 Kotlin | 📅 2026-10-03 - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,
 * 🆕[](#28-05-23)[telephoto](https://github.com/saket/telephoto) ⭐ 1,559 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-22 - Building blocks for designing media experiences in Compose UI
 * [FloatingActionButton SpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial) ⭐ 1,473 | 🐛 44 | 🌐 Java | 📅 2024-04-04
 * [compose-richtext](https://github.com/zach-klippenstein/compose-richtext) ⭐ 992 | 🐛 44 | 🌐 Kotlin | 📅 2026-06-08 - A collection of Compose libraries for advanced text formatting.

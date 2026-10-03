@@ -754,7 +754,7 @@
                 "id": 630584174,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T15:04:51Z",
+                "last_commit": "2026-10-03T06:07:26Z",
                 "open_issues": 85,
                 "owner": "MohamedRejeb",
                 "repo": "compose-rich-editor",
@@ -2353,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:17:50.082Z",
+    "last_updated": "2026-10-03T07:22:39.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
