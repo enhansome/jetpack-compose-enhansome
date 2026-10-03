@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "ComposeCookBook",
-          "description": null,
+          "description": "Gurupreet/ComposeCookBook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 293227683,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-09-19T00:05:14Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-03T00:06:49Z",
+            "open_issues": 8,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6879,
+            "stars": 6881,
             "topics": [
               "android",
               "android-ui",
@@ -37,7 +37,7 @@
         {
           "node_type": "item",
           "title": "API Guidelines for Jetpack Compose",
-          "description": null,
+          "description": "androidx/androidx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T06:53:23Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-03T05:16:57Z",
+            "open_issues": 61,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6102,
+            "stars": 6103,
             "topics": [
               "android",
               "jetpack",
@@ -376,7 +376,7 @@
             {
               "node_type": "item",
               "title": "KakaoCup/Compose",
-              "description": null,
+              "description": "KakaoCup/Compose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -797,7 +797,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-22T17:59:36Z",
-                "open_issues": 21,
+                "open_issues": 23,
                 "owner": "saket",
                 "repo": "telephoto",
                 "stars": 1559,
@@ -816,7 +816,7 @@
             {
               "node_type": "item",
               "title": "FloatingActionButton SpeedDial",
-              "description": null,
+              "description": "leinardi/FloatingActionButtonSpeedDial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -829,7 +829,7 @@
                 "open_issues": 44,
                 "owner": "leinardi",
                 "repo": "FloatingActionButtonSpeedDial",
-                "stars": 1474,
+                "stars": 1473,
                 "topics": [
                   "android",
                   "android-library",
@@ -1314,7 +1314,7 @@
             {
               "node_type": "item",
               "title": "Dark-Toggle-Button-Sample-Jetpack-Compose",
-              "description": "(+50 ⭐) - Animated dark mode toggle button with Jetpack Compose.",
+              "description": "Animated dark mode toggle button with Jetpack Compose.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1510,7 +1510,7 @@
         {
           "node_type": "item",
           "title": "Jetpack Compose Samples",
-          "description": "(+15.9K ⭐) - Official repository with samples by Google",
+          "description": "Official repository with samples by Google",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1519,11 +1519,11 @@
             "id": 211288349,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T16:59:14Z",
+            "last_commit": "2026-10-02T15:45:15Z",
             "open_issues": 6,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23491,
+            "stars": 23493,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1535,7 +1535,7 @@
         {
           "node_type": "item",
           "title": "sunflower",
-          "description": "(+16.8K ⭐) - Sample app by Google",
+          "description": "Sample app by Google",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1556,7 +1556,7 @@
         {
           "node_type": "item",
           "title": "Jetpack Compose Playground",
-          "description": "(+2.8K ⭐)",
+          "description": "Foso/Jetpack-Compose-Playground",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1588,7 +1588,7 @@
         {
           "node_type": "item",
           "title": "Learn-Jetpack-Compose-By-Example",
-          "description": "(+2.9K ⭐)",
+          "description": "vinaygaba/Learn-Jetpack-Compose-By-Example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1620,7 +1620,7 @@
         {
           "node_type": "item",
           "title": "ComposeAcademy-Playground",
-          "description": "(+870 ⭐)",
+          "description": "hitherejoe/ComposeAcademy-Playground",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1641,7 +1641,7 @@
         {
           "node_type": "item",
           "title": "JetInstagram",
-          "description": "(+689 ⭐) - Instagram clone app built with Jetpack Compose",
+          "description": "Instagram clone app built with Jetpack Compose",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1666,7 +1666,7 @@
         {
           "node_type": "item",
           "title": "ComposeCookbook",
-          "description": "(+139 ⭐) - A Collection of major Jetpack compose UI components which are commonly used.",
+          "description": "A Collection of major Jetpack compose UI components which are commonly used.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1704,7 +1704,7 @@
         {
           "node_type": "item",
           "title": "Intro Showcase View",
-          "description": "(+15 ⭐) - An android library to highlight different features of the app built using Jetpack Compose.",
+          "description": "An android library to highlight different features of the app built using Jetpack Compose.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1740,7 +1740,7 @@
         {
           "node_type": "item",
           "title": "JetQuotes",
-          "description": "(+363 ⭐) - A Quotes Application",
+          "description": "A Quotes Application",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1781,7 +1781,7 @@
         {
           "node_type": "item",
           "title": "flux",
-          "description": "(+335 ⭐) - A fake weather app",
+          "description": "A fake weather app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1805,7 +1805,7 @@
         {
           "node_type": "item",
           "title": "Wiggles",
-          "description": "(+256 ⭐) - Beautiful Puppy adoption app with Jetpack Compose",
+          "description": "Beautiful Puppy adoption app with Jetpack Compose",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1839,7 +1839,7 @@
         {
           "node_type": "item",
           "title": "Jetpack-compose-animations-examples",
-          "description": "(+4 ⭐) - Cool animations implemented with Jetpack Compose.",
+          "description": "Cool animations implemented with Jetpack Compose.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1869,7 +1869,7 @@
         {
           "node_type": "item",
           "title": "android-2048-compose",
-          "description": "(+255 ⭐) - 2048 implemented using Jetpack Compose",
+          "description": "2048 implemented using Jetpack Compose",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1890,7 +1890,7 @@
         {
           "node_type": "item",
           "title": "JetpackComposeCalculator",
-          "description": "(+272 ⭐)",
+          "description": "ahmedrizwan/JetpackComposeCalculator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1911,7 +1911,7 @@
         {
           "node_type": "item",
           "title": "DinoCompose",
-          "description": "(+198 ⭐) - Chrome's Dino T-Rex game developed in Jetpack Compose",
+          "description": "Chrome's Dino T-Rex game developed in Jetpack Compose",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1944,7 +1944,7 @@
         {
           "node_type": "item",
           "title": "compose-schedule-calendar",
-          "description": "(+142 ⭐) - Demo app for a horizontal schedule(event) calendar",
+          "description": "Demo app for a horizontal schedule(event) calendar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1965,7 +1965,7 @@
         {
           "node_type": "item",
           "title": "JetExample",
-          "description": "(+192 ⭐) - Jetpack Compose UI components examples",
+          "description": "Jetpack Compose UI components examples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1991,7 +1991,7 @@
         {
           "node_type": "item",
           "title": "Rebound",
-          "description": "(+7 ⭐) - Highly customizable and feature rich workout log app.",
+          "description": "Highly customizable and feature rich workout log app.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2012,7 +2012,7 @@
         {
           "node_type": "item",
           "title": "CoinWatch",
-          "description": "(29 ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data",
+          "description": "Delightful cryptocurrency app providing real-time coin prices, price histories, and market data",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2054,7 +2054,7 @@
         {
           "node_type": "item",
           "title": "Facebook-Timeline-Compose-Android",
-          "description": "(+119 ⭐)",
+          "description": "ahmed7official/Facebook-Timeline-Compose-Android",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2085,7 +2085,7 @@
         {
           "node_type": "item",
           "title": "jettimer",
-          "description": "(+26 ⭐) - Timer app clone built with Jetpack Compose and Hilt",
+          "description": "Timer app clone built with Jetpack Compose and Hilt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2121,7 +2121,7 @@
         {
           "node_type": "item",
           "title": "jetpuppy",
-          "description": "(+55 ⭐) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.",
+          "description": "Jetpuppy is a puppy adoption app using Jetpack Compose UI.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2158,7 +2158,7 @@
         {
           "node_type": "item",
           "title": "Cheddar",
-          "description": "(+70 ⭐) - Hacker News reader",
+          "description": "Hacker News reader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2183,7 +2183,7 @@
         {
           "node_type": "item",
           "title": "jetpack-compose-samples",
-          "description": "(+18 ⭐) - Repository with collection of many compose samples.",
+          "description": "Repository with collection of many compose samples.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2228,11 +2228,11 @@
             "id": 293498508,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T03:19:08Z",
+            "last_commit": "2026-10-03T03:10:17Z",
             "open_issues": 23,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19397,
+            "stars": 19399,
             "topics": [
               "android",
               "awt",
@@ -2292,7 +2292,7 @@
         {
           "node_type": "item",
           "title": "ComposeClock",
-          "description": null,
+          "description": "adibfara/ComposeClock",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2353,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:47:55.416Z",
+    "last_updated": "2026-10-03T05:17:50.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
@@ -2365,7 +2365,7 @@
       "open_issues": 22,
       "owner": "jetpack-compose",
       "repo": "jetpack-compose-awesome",
-      "stars": 2606,
+      "stars": 2607,
       "topics": [
         "android",
         "android-jetpack",
