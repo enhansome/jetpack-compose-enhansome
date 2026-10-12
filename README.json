@@ -46,8 +46,8 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T07:20:36Z",
-            "open_issues": 61,
+            "last_commit": "2026-10-12T06:47:17Z",
+            "open_issues": 60,
             "owner": "androidx",
             "repo": "androidx",
             "stars": 6110,
@@ -209,7 +209,7 @@
                 "open_issues": 196,
                 "owner": "adrielcafe",
                 "repo": "voyager",
-                "stars": 3088,
+                "stars": 3089,
                 "topics": [
                   "android",
                   "android-compose",
@@ -491,7 +491,7 @@
             "open_issues": 29,
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1367,
+            "stars": 1368,
             "topics": [
               "android",
               "compose-multiplatform",
@@ -758,7 +758,7 @@
                 "open_issues": 28,
                 "owner": "MohamedRejeb",
                 "repo": "compose-rich-editor",
-                "stars": 1860,
+                "stars": 1861,
                 "topics": [
                   "android",
                   "android-library",
@@ -1523,7 +1523,7 @@
             "open_issues": 9,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23506,
+            "stars": 23507,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1548,7 +1548,7 @@
             "open_issues": 76,
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17753,
+            "stars": 17752,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:53.075Z"
@@ -1852,7 +1852,7 @@
             "open_issues": 1,
             "owner": "canopas",
             "repo": "compose-animations-examples",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "android",
               "android-app",
@@ -2025,7 +2025,7 @@
             "open_issues": 5,
             "owner": "shorthouse",
             "repo": "CoinWatch",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "android",
               "android-clean-architecture",
@@ -2232,7 +2232,7 @@
             "open_issues": 25,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19415,
+            "stars": 19417,
             "topics": [
               "android",
               "awt",
@@ -2353,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T08:04:53.337Z",
+    "last_updated": "2026-10-12T08:22:01.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
