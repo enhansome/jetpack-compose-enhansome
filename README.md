@@ -36,7 +36,7 @@
 ## Docs
 
 * [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) ⭐ 6,881 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-03
-* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,111 | 🐛 60 | 🌐 Kotlin | 📅 2026-10-13
+* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,112 | 🐛 60 | 🌐 Kotlin | 📅 2026-10-14
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
 * [Jetpack Compose Codelabs](https://developer.android.com/codelabs/jetpack-compose-basics)
 * [Jetpack Compose Roadmap](https://developer.android.com/jetpack/androidx/compose-roadmap)
@@ -113,7 +113,7 @@
 
 **Libraries**
 
-* [compose-destinations](https://github.com/raamcosta/compose-destinations) ⭐ 3,389 | 🐛 55 | 🌐 Kotlin | 📅 2025-10-12 - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
+* [compose-destinations](https://github.com/raamcosta/compose-destinations) ⭐ 3,388 | 🐛 55 | 🌐 Kotlin | 📅 2025-10-12 - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 * [compose-router]() -  Routing functionality for Jetpack Compose with back stack
   [voyager](https://github.com/adrielcafe/voyager) ⭐ 3,089 | 🐛 196 | 🌐 Kotlin | 📅 2026-06-06 - A pragmatic navigation library for Jetpack Compose
 * [Appyx](https://github.com/bumble-tech/appyx) ⭐ 1,262 | 🐛 77 | 🌐 Kotlin | 📅 2026-10-09 - Model-driven navigation for Jetpack Compose
@@ -247,13 +247,13 @@
 
 ### Testings
 
-* [KakaoCup/Compose](https://github.com/KakaoCup/Compose) ⭐ 187 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-29
+* [KakaoCup/Compose](https://github.com/KakaoCup/Compose) ⭐ 188 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-29
 * [Testing your Compose layout](https://developer.android.com/jetpack/compose/testing)
 * [How to test Jetpack Compose UI](https://dmytroshuba.com/blog/jetpack-compose-ui-testing/)
 
 ## Libraries
 
-* [accompanist](https://github.com/chrisbanes/accompanist) ⭐ 7,837 | 🐛 16 | 🌐 Kotlin | 📅 2025-08-18 -  A collection of extension libraries for Jetpack Compose
+* [accompanist](https://github.com/chrisbanes/accompanist) ⭐ 7,838 | 🐛 16 | 🌐 Kotlin | 📅 2025-08-18 -  A collection of extension libraries for Jetpack Compose
 * [Landscapist](https://github.com/skydoves/Landscapist) ⭐ 2,587 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-09 - image loading using Glide, Coil, Fresco
 * [Reorderable](https://github.com/Calvin-LL/Reorderable) ⭐ 1,370 | 🐛 29 | 🌐 Kotlin | 📅 2026-04-20 - Reorder items in Lists and Grids with drag and drop
 * [compose-markdown](https://github.com/jeziellago/compose-markdown) ⭐ 872 | 🐛 53 | 🌐 Kotlin | 📅 2026-10-08 - Markdown Text for Android Jetpack Compose
@@ -266,10 +266,10 @@
 
 ### UI
 
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,392 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - Easily celebrate little and big moments in your app with this lightweight confetti particle system 🎊
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,393 | 🐛 27 | 🌐 Kotlin | 📅 2025-08-21 - Easily celebrate little and big moments in your app with this lightweight confetti particle system 🎊
 * 🆕[](#28-05-23)[Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) ⭐ 1,861 | 🐛 28 | 🌐 Kotlin | 📅 2026-10-09 - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,
-* 🆕[](#28-05-23)[telephoto](https://github.com/saket/telephoto) ⭐ 1,564 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-22 - Building blocks for designing media experiences in Compose UI
-* [FloatingActionButton SpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial) ⭐ 1,474 | 🐛 44 | 🌐 Java | 📅 2024-04-04
+* 🆕[](#28-05-23)[telephoto](https://github.com/saket/telephoto) ⭐ 1,566 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-22 - Building blocks for designing media experiences in Compose UI
+* [FloatingActionButton SpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial) ⭐ 1,475 | 🐛 44 | 🌐 Java | 📅 2024-04-04
 * [compose-richtext](https://github.com/zach-klippenstein/compose-richtext) ⭐ 993 | 🐛 44 | 🌐 Kotlin | 📅 2026-06-08 - A collection of Compose libraries for advanced text formatting.
 * [tehras/charts](https://github.com/tehras/charts) ⭐ 778 | 🐛 12 | 🌐 Kotlin | 📅 2026-03-03 - simple Android compose charts.
 * [WheelPickerCompose](https://github.com/commandiron/WheelPickerCompose) ⭐ 623 | 🐛 30 | 🌐 Kotlin | 📅 2024-05-16 - Wheel Date & Time Picker for Jetpack Compose.
@@ -296,7 +296,7 @@
 
 ## <a name="app-projects"></a> App Projects
 
-* [Jetpack Compose Samples](https://github.com/android/compose-samples) ⭐ 23,511 | 🐛 10 | 🌐 Kotlin | 📅 2026-10-12 (**+15.9K** ⭐) - Official repository with samples by Google
+* [Jetpack Compose Samples](https://github.com/android/compose-samples) ⭐ 23,514 | 🐛 12 | 🌐 Kotlin | 📅 2026-10-14 (**+15.9K** ⭐) - Official repository with samples by Google
 * [sunflower](https://github.com/android/sunflower/tree/compose) ⚠️ Archived (**+16.8K** ⭐) - Sample app by Google
 * [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) ⭐ 3,658 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31 (**+2.8K** ⭐)
 * [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) ⭐ 3,454 | 🐛 18 | 🌐 Kotlin | 📅 2025-09-04 (**+2.9K** ⭐)
@@ -307,7 +307,7 @@
 * [JetQuotes](https://github.com/Spikeysanju/JetQuotes) ⭐ 551 | 🐛 9 | 🌐 Kotlin | 📅 2024-04-16 (**+363** ⭐) -  A Quotes Application
 * [flux](https://github.com/fidloo/flux) ⭐ 511 | 🐛 2 | 🌐 Kotlin | 📅 2023-05-11 (**+335** ⭐) - A fake weather app
 * [Wiggles](https://github.com/Spikeysanju/Wiggles) ⭐ 504 | 🐛 3 | 🌐 Kotlin | 📅 2021-09-07 (**+256** ⭐) - Beautiful Puppy adoption app with Jetpack Compose
-* [Jetpack-compose-animations-examples](https://github.com/canopas/Jetpack-compose-animations-examples) ⭐ 490 | 🐛 1 | 🌐 Kotlin | 📅 2024-12-26 (**+4** ⭐) - Cool animations implemented with Jetpack Compose.
+* [Jetpack-compose-animations-examples](https://github.com/canopas/Jetpack-compose-animations-examples) ⭐ 491 | 🐛 1 | 🌐 Kotlin | 📅 2024-12-26 (**+4** ⭐) - Cool animations implemented with Jetpack Compose.
 * [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) ⭐ 471 | 🐛 0 | 🌐 Kotlin | 📅 2024-10-21 (**+255** ⭐) - 2048 implemented using Jetpack Compose
 * [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator) ⭐ 315 | 🐛 2 | 🌐 Kotlin | 📅 2020-08-11 (**+272** ⭐)
 * [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) ⭐ 285 | 🐛 4 | 🌐 Kotlin | 📅 2022-01-09 (**+198** ⭐) -  Chrome's Dino T-Rex game developed in Jetpack Compose
@@ -332,7 +332,7 @@
 
 ## Compose Desktop Projects
 
-* [Compose JB](https://github.com/JetBrains/compose-jb) ⭐ 19,419 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-13 - Jetpack Compose for Desktop and Web
+* [Compose JB](https://github.com/JetBrains/compose-jb) ⭐ 19,421 | 🐛 29 | 🌐 Kotlin | 📅 2026-10-13 - Jetpack Compose for Desktop and Web
 * [ComposeSlackDesktop](https://github.com/vipulasri/ComposeSlackDesktop) ⭐ 298 | 🐛 0 | 🌐 Kotlin | 📅 2021-01-17 - A Slack demo app for desktop using Jetpack Compose
 
 ## Other projects
@@ -358,4 +358,4 @@ Support it by joining stargazers for this repository. ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._

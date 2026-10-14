@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T06:49:57Z",
+            "last_commit": "2026-10-14T06:06:52Z",
             "open_issues": 60,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6111,
+            "stars": 6112,
             "topics": [
               "android",
               "jetpack",
@@ -177,7 +177,7 @@
                 "open_issues": 55,
                 "owner": "raamcosta",
                 "repo": "compose-destinations",
-                "stars": 3389,
+                "stars": 3388,
                 "topics": [
                   "android",
                   "android-library",
@@ -389,7 +389,7 @@
                 "open_issues": 13,
                 "owner": "KakaoCup",
                 "repo": "Compose",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "android",
                   "android-testing",
@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "google",
             "repo": "accompanist",
-            "stars": 7837,
+            "stars": 7838,
             "topics": [
               "android-library",
               "jetpack-compose"
@@ -726,7 +726,7 @@
                 "open_issues": 27,
                 "owner": "DanielMartinus",
                 "repo": "Konfetti",
-                "stars": 3392,
+                "stars": 3393,
                 "topics": [
                   "android",
                   "android-animation",
@@ -800,7 +800,7 @@
                 "open_issues": 23,
                 "owner": "saket",
                 "repo": "telephoto",
-                "stars": 1564,
+                "stars": 1566,
                 "topics": [
                   "android",
                   "compose",
@@ -829,7 +829,7 @@
                 "open_issues": 44,
                 "owner": "leinardi",
                 "repo": "FloatingActionButtonSpeedDial",
-                "stars": 1474,
+                "stars": 1475,
                 "topics": [
                   "android",
                   "android-library",
@@ -1519,11 +1519,11 @@
             "id": 211288349,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T20:24:11Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-14T00:45:15Z",
+            "open_issues": 12,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23511,
+            "stars": 23514,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1852,7 +1852,7 @@
             "open_issues": 1,
             "owner": "canopas",
             "repo": "compose-animations-examples",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "android",
               "android-app",
@@ -2228,11 +2228,11 @@
             "id": 293498508,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T06:40:42Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-13T23:39:13Z",
+            "open_issues": 29,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19419,
+            "stars": 19421,
             "topics": [
               "android",
               "awt",
@@ -2353,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T08:46:56.293Z",
+    "last_updated": "2026-10-14T06:56:35.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
