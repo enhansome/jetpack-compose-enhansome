@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6884,
+            "stars": 6885,
             "topics": [
               "android",
               "android-ui",
@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T06:47:38Z",
+            "last_commit": "2026-10-16T06:19:19Z",
             "open_issues": 60,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6112,
+            "stars": 6111,
             "topics": [
               "android",
               "jetpack",
@@ -81,7 +81,7 @@
             "open_issues": 68,
             "owner": "airbnb",
             "repo": "Showkase",
-            "stars": 2324,
+            "stars": 2325,
             "topics": [
               "android",
               "android-library",
@@ -177,7 +177,7 @@
                 "open_issues": 55,
                 "owner": "raamcosta",
                 "repo": "compose-destinations",
-                "stars": 3388,
+                "stars": 3389,
                 "topics": [
                   "android",
                   "android-library",
@@ -209,7 +209,7 @@
                 "open_issues": 196,
                 "owner": "adrielcafe",
                 "repo": "voyager",
-                "stars": 3090,
+                "stars": 3089,
                 "topics": [
                   "android",
                   "android-compose",
@@ -250,7 +250,7 @@
                 "open_issues": 77,
                 "owner": "bumble-tech",
                 "repo": "appyx",
-                "stars": 1262,
+                "stars": 1263,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "google",
             "repo": "accompanist",
-            "stars": 7841,
+            "stars": 7840,
             "topics": [
               "android-library",
               "jetpack-compose"
@@ -452,11 +452,11 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T22:07:41Z",
+            "last_commit": "2026-10-15T10:54:34Z",
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
-            "stars": 2587,
+            "stars": 2586,
             "topics": [
               "android",
               "compose",
@@ -491,7 +491,7 @@
             "open_issues": 29,
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1372,
+            "stars": 1371,
             "topics": [
               "android",
               "compose-multiplatform",
@@ -758,7 +758,7 @@
                 "open_issues": 31,
                 "owner": "MohamedRejeb",
                 "repo": "compose-rich-editor",
-                "stars": 1861,
+                "stars": 1860,
                 "topics": [
                   "android",
                   "android-library",
@@ -800,7 +800,7 @@
                 "open_issues": 23,
                 "owner": "saket",
                 "repo": "telephoto",
-                "stars": 1566,
+                "stars": 1565,
                 "topics": [
                   "android",
                   "compose",
@@ -910,7 +910,7 @@
                 "open_issues": 30,
                 "owner": "commandiron",
                 "repo": "WheelPickerCompose",
-                "stars": 623,
+                "stars": 622,
                 "topics": [
                   "android",
                   "android-lib",
@@ -1519,11 +1519,11 @@
             "id": 211288349,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T13:01:25Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-15T13:52:33Z",
+            "open_issues": 10,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23518,
+            "stars": 23519,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1548,7 +1548,7 @@
             "open_issues": 76,
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17750,
+            "stars": 17748,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:53.075Z"
@@ -1569,7 +1569,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3657,
+            "stars": 3658,
             "topics": [
               "android",
               "androidx",
@@ -2228,11 +2228,11 @@
             "id": 293498508,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T15:49:33Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-16T03:57:39Z",
+            "open_issues": 25,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19421,
+            "stars": 19425,
             "topics": [
               "android",
               "awt",
@@ -2332,7 +2332,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3657,
+            "stars": 3658,
             "topics": [
               "android",
               "androidx",
@@ -2353,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T06:48:09.832Z",
+    "last_updated": "2026-10-16T06:36:55.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
@@ -2365,7 +2365,7 @@
       "open_issues": 22,
       "owner": "jetpack-compose",
       "repo": "jetpack-compose-awesome",
-      "stars": 2608,
+      "stars": 2607,
       "topics": [
         "android",
         "android-jetpack",
