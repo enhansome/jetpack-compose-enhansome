@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "google",
             "repo": "accompanist",
-            "stars": 7841,
+            "stars": 7842,
             "topics": [
               "android-library",
               "jetpack-compose"
@@ -456,7 +456,7 @@
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
-            "stars": 2587,
+            "stars": 2586,
             "topics": [
               "android",
               "compose",
@@ -491,7 +491,7 @@
             "open_issues": 29,
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1371,
+            "stars": 1372,
             "topics": [
               "android",
               "compose-multiplatform",
@@ -703,7 +703,7 @@
             "open_issues": 0,
             "owner": "Calvin-LL",
             "repo": "AutoLinkText",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:53.075Z"
@@ -722,8 +722,8 @@
                 "id": 86191112,
                 "language": "Kotlin",
                 "license": "ISC",
-                "last_commit": "2026-10-16T14:20:37Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-17T14:16:40Z",
+                "open_issues": 11,
                 "owner": "DanielMartinus",
                 "repo": "Konfetti",
                 "stars": 3391,
@@ -1665,6 +1665,47 @@
         },
         {
           "node_type": "item",
+          "title": "OneBox",
+          "description": "A free AI agent & toolbox for Android: a built-in agent drives 90+ in-app tools, plus image, document & productivity utilities. Published on Google Play & F-Droid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱",
+            "homepage": "https://www.oneboxable.com",
+            "id": 1327506365,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-18T05:53:22Z",
+            "open_issues": 8,
+            "owner": "wangzhishou",
+            "repo": "OneBox",
+            "stars": 780,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "ai-assistants",
+              "ai-tools",
+              "android",
+              "android-app",
+              "android-application",
+              "android-apps",
+              "chatbot",
+              "chatgpt",
+              "chatgpt-api",
+              "decompose",
+              "hilt-android",
+              "image-tools",
+              "jetpack-compose",
+              "kotlin",
+              "material3",
+              "toolbox"
+            ]
+          },
+          "first_seen": "2026-10-18T06:50:24.359Z"
+        },
+        {
+          "node_type": "item",
           "title": "ComposeCookbook",
           "description": "A Collection of major Jetpack compose UI components which are commonly used.",
           "children": [],
@@ -1717,7 +1758,7 @@
             "open_issues": 7,
             "owner": "canopas",
             "repo": "compose-intro-showcase",
-            "stars": 616,
+            "stars": 615,
             "topics": [
               "android",
               "android-development",
@@ -2228,11 +2269,11 @@
             "id": 293498508,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T13:58:56Z",
+            "last_commit": "2026-10-18T03:50:49Z",
             "open_issues": 24,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19427,
+            "stars": 19429,
             "topics": [
               "android",
               "awt",
@@ -2353,7 +2394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:25:48.390Z",
+    "last_updated": "2026-10-18T06:50:24.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
@@ -2361,8 +2402,8 @@
       "id": 297828590,
       "language": "Kotlin",
       "license": null,
-      "last_commit": "2024-08-12T03:13:27Z",
-      "open_issues": 22,
+      "last_commit": "2026-10-18T03:07:43Z",
+      "open_issues": 21,
       "owner": "jetpack-compose",
       "repo": "jetpack-compose-awesome",
       "stars": 2606,
@@ -2374,7 +2415,7 @@
         "kotlin"
       ]
     },
-    "original_repository_sha": "857a0286db7a1d4235c518f71fc1c1b29657cd7e",
+    "original_repository_sha": "c58524e2845bab03edc9908aec5ceabe5d62c7d9",
     "enhanced_repository": "enhansome/jetpack-compose-enhansome",
     "enhanced_repository_description": null,
     "title": "Awesome jetpack compose awesome with stars"
