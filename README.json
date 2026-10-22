@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T03:17:36Z",
+            "last_commit": "2026-10-22T05:16:44Z",
             "open_issues": 61,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6114,
+            "stars": 6113,
             "topics": [
               "android",
               "jetpack",
@@ -81,7 +81,7 @@
             "open_issues": 68,
             "owner": "airbnb",
             "repo": "Showkase",
-            "stars": 2324,
+            "stars": 2323,
             "topics": [
               "android",
               "android-library",
@@ -250,7 +250,7 @@
                 "open_issues": 77,
                 "owner": "bumble-tech",
                 "repo": "appyx",
-                "stars": 1263,
+                "stars": 1264,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -977,7 +977,7 @@
                 "open_issues": 4,
                 "owner": "CuriousNikhil",
                 "repo": "neumorphic-compose",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "jetpack-compose",
                   "kotlin",
@@ -1519,11 +1519,11 @@
             "id": 211288349,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T00:19:12Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-22T06:07:03Z",
+            "open_issues": 8,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23525,
+            "stars": 23529,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1548,7 +1548,7 @@
             "open_issues": 76,
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17744,
+            "stars": 17742,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:53.075Z"
@@ -1601,7 +1601,7 @@
             "open_issues": 18,
             "owner": "vinaygaba",
             "repo": "Learn-Jetpack-Compose-By-Example",
-            "stars": 3453,
+            "stars": 3452,
             "topics": [
               "android",
               "android-ui",
@@ -1640,31 +1640,6 @@
         },
         {
           "node_type": "item",
-          "title": "JetInstagram",
-          "description": "Instagram clone app built with Jetpack Compose",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "JetInstagram is an Instagram UI clone app built with Jetpack Compose.",
-            "homepage": null,
-            "id": 292028144,
-            "language": "Kotlin",
-            "license": "Apache-2.0",
-            "last_commit": "2022-07-09T18:24:00Z",
-            "open_issues": 2,
-            "owner": "vipulasri",
-            "repo": "JetInstagram",
-            "stars": 841,
-            "topics": [
-              "android",
-              "instagram",
-              "jetpack-compose"
-            ]
-          },
-          "first_seen": "2026-08-28T13:37:53.075Z"
-        },
-        {
-          "node_type": "item",
           "title": "OneBox",
           "description": "A free AI agent & toolbox for Android: a built-in agent drives 90+ in-app tools, plus image, document & productivity utilities. Published on Google Play & F-Droid",
           "children": [],
@@ -1675,11 +1650,11 @@
             "id": 1327506365,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T05:47:48Z",
+            "last_commit": "2026-10-21T07:18:17Z",
             "open_issues": 8,
             "owner": "wangzhishou",
             "repo": "OneBox",
-            "stars": 829,
+            "stars": 844,
             "topics": [
               "ai",
               "ai-agent",
@@ -1703,6 +1678,31 @@
             ]
           },
           "first_seen": "2026-10-18T06:50:24.359Z"
+        },
+        {
+          "node_type": "item",
+          "title": "JetInstagram",
+          "description": "Instagram clone app built with Jetpack Compose",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "JetInstagram is an Instagram UI clone app built with Jetpack Compose.",
+            "homepage": null,
+            "id": 292028144,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2022-07-09T18:24:00Z",
+            "open_issues": 2,
+            "owner": "vipulasri",
+            "repo": "JetInstagram",
+            "stars": 841,
+            "topics": [
+              "android",
+              "instagram",
+              "jetpack-compose"
+            ]
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -2269,11 +2269,11 @@
             "id": 293498508,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T15:07:36Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-21T17:13:56Z",
+            "open_issues": 26,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19434,
+            "stars": 19436,
             "topics": [
               "android",
               "awt",
@@ -2394,7 +2394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T06:51:05.776Z",
+    "last_updated": "2026-10-22T06:54:29.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
@@ -2403,10 +2403,10 @@
       "language": "Kotlin",
       "license": null,
       "last_commit": "2026-10-18T03:07:43Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": "jetpack-compose",
       "repo": "jetpack-compose-awesome",
-      "stars": 2606,
+      "stars": 2609,
       "topics": [
         "android",
         "android-jetpack",
