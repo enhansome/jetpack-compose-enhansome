@@ -50,7 +50,7 @@
             "open_issues": 61,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6117,
+            "stars": 6119,
             "topics": [
               "android",
               "jetpack",
@@ -177,7 +177,7 @@
                 "open_issues": 55,
                 "owner": "raamcosta",
                 "repo": "compose-destinations",
-                "stars": 3388,
+                "stars": 3389,
                 "topics": [
                   "android",
                   "android-library",
@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "google",
             "repo": "accompanist",
-            "stars": 7846,
+            "stars": 7849,
             "topics": [
               "android-library",
               "jetpack-compose"
@@ -579,7 +579,7 @@
             "open_issues": 14,
             "owner": "adrielcafe",
             "repo": "lyricist",
-            "stars": 811,
+            "stars": 812,
             "topics": [
               "android",
               "android-library",
@@ -1523,7 +1523,7 @@
             "open_issues": 8,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23535,
+            "stars": 23541,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1548,7 +1548,7 @@
             "open_issues": 76,
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17741,
+            "stars": 17743,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:53.075Z"
@@ -1569,7 +1569,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3656,
+            "stars": 3657,
             "topics": [
               "android",
               "androidx",
@@ -1654,7 +1654,7 @@
             "open_issues": 8,
             "owner": "wangzhishou",
             "repo": "OneBox",
-            "stars": 875,
+            "stars": 886,
             "topics": [
               "ai",
               "ai-agent",
@@ -2066,7 +2066,7 @@
             "open_issues": 5,
             "owner": "shorthouse",
             "repo": "CoinWatch",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "android",
               "android-clean-architecture",
@@ -2273,7 +2273,7 @@
             "open_issues": 24,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19441,
+            "stars": 19446,
             "topics": [
               "android",
               "awt",
@@ -2373,7 +2373,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3656,
+            "stars": 3657,
             "topics": [
               "android",
               "androidx",
@@ -2394,7 +2394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:43:36.312Z",
+    "last_updated": "2026-10-25T07:09:01.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
@@ -2403,7 +2403,7 @@
       "language": "Kotlin",
       "license": null,
       "last_commit": "2026-10-18T03:07:43Z",
-      "open_issues": 27,
+      "open_issues": 29,
       "owner": "jetpack-compose",
       "repo": "jetpack-compose-awesome",
       "stars": 2609,
