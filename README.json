@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6888,
+            "stars": 6889,
             "topics": [
               "android",
               "android-ui",
@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T07:08:57Z",
+            "last_commit": "2026-10-30T07:37:12Z",
             "open_issues": 63,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6123,
+            "stars": 6124,
             "topics": [
               "android",
               "jetpack",
@@ -81,7 +81,7 @@
             "open_issues": 68,
             "owner": "airbnb",
             "repo": "Showkase",
-            "stars": 2324,
+            "stars": 2325,
             "topics": [
               "android",
               "android-library",
@@ -452,7 +452,7 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T18:00:37Z",
+            "last_commit": "2026-10-29T18:45:04Z",
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
@@ -491,7 +491,7 @@
             "open_issues": 29,
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1375,
+            "stars": 1376,
             "topics": [
               "android",
               "compose-multiplatform",
@@ -797,10 +797,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-22T17:59:36Z",
-                "open_issues": 25,
+                "open_issues": 28,
                 "owner": "saket",
                 "repo": "telephoto",
-                "stars": 1573,
+                "stars": 1572,
                 "topics": [
                   "android",
                   "compose",
@@ -829,7 +829,7 @@
                 "open_issues": 44,
                 "owner": "leinardi",
                 "repo": "FloatingActionButtonSpeedDial",
-                "stars": 1475,
+                "stars": 1476,
                 "topics": [
                   "android",
                   "android-library",
@@ -884,7 +884,7 @@
                 "open_issues": 12,
                 "owner": "tehras",
                 "repo": "charts",
-                "stars": 778,
+                "stars": 777,
                 "topics": [
                   "android",
                   "charts",
@@ -1523,7 +1523,7 @@
             "open_issues": 9,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23545,
+            "stars": 23546,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1548,7 +1548,7 @@
             "open_issues": 76,
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17739,
+            "stars": 17738,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:53.075Z"
@@ -1654,7 +1654,7 @@
             "open_issues": 8,
             "owner": "wangzhishou",
             "repo": "OneBox",
-            "stars": 943,
+            "stars": 957,
             "topics": [
               "ai",
               "ai-agent",
@@ -2269,11 +2269,11 @@
             "id": 293498508,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T21:48:01Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-30T03:12:57Z",
+            "open_issues": 26,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19458,
+            "stars": 19457,
             "topics": [
               "android",
               "awt",
@@ -2394,7 +2394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T07:52:49.995Z",
+    "last_updated": "2026-10-30T07:55:48.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
