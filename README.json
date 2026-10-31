@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6889,
+            "stars": 6890,
             "topics": [
               "android",
               "android-ui",
@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T07:37:12Z",
-            "open_issues": 63,
+            "last_commit": "2026-10-31T05:13:04Z",
+            "open_issues": 62,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6124,
+            "stars": 6126,
             "topics": [
               "android",
               "jetpack",
@@ -111,7 +111,7 @@
             "open_issues": 63,
             "owner": "pedrovgs",
             "repo": "Shot",
-            "stars": 1208,
+            "stars": 1209,
             "topics": [
               "android",
               "gradle-plugin",
@@ -177,7 +177,7 @@
                 "open_issues": 55,
                 "owner": "raamcosta",
                 "repo": "compose-destinations",
-                "stars": 3391,
+                "stars": 3392,
                 "topics": [
                   "android",
                   "android-library",
@@ -209,7 +209,7 @@
                 "open_issues": 196,
                 "owner": "adrielcafe",
                 "repo": "voyager",
-                "stars": 3091,
+                "stars": 3092,
                 "topics": [
                   "android",
                   "android-compose",
@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "google",
             "repo": "accompanist",
-            "stars": 7846,
+            "stars": 7847,
             "topics": [
               "android-library",
               "jetpack-compose"
@@ -858,7 +858,7 @@
                 "open_issues": 44,
                 "owner": "halilozercan",
                 "repo": "compose-richtext",
-                "stars": 995,
+                "stars": 994,
                 "topics": [
                   "android",
                   "compose",
@@ -1523,7 +1523,7 @@
             "open_issues": 9,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23546,
+            "stars": 23548,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1548,7 +1548,7 @@
             "open_issues": 76,
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17738,
+            "stars": 17736,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:53.075Z"
@@ -1569,7 +1569,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3656,
+            "stars": 3657,
             "topics": [
               "android",
               "androidx",
@@ -1601,7 +1601,7 @@
             "open_issues": 18,
             "owner": "vinaygaba",
             "repo": "Learn-Jetpack-Compose-By-Example",
-            "stars": 3449,
+            "stars": 3450,
             "topics": [
               "android",
               "android-ui",
@@ -1614,27 +1614,6 @@
               "sample-app",
               "ui-toolkit"
             ]
-          },
-          "first_seen": "2026-08-28T13:37:53.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ComposeAcademy-Playground",
-          "description": "hitherejoe/ComposeAcademy-Playground",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Playground project for the Jetpack Compose APIs",
-            "homepage": null,
-            "id": 265163836,
-            "language": "Kotlin",
-            "license": null,
-            "last_commit": "2021-04-08T05:27:36Z",
-            "open_issues": 2,
-            "owner": "hitherejoe",
-            "repo": "ComposeAcademy-Playground",
-            "stars": 965,
-            "topics": []
           },
           "first_seen": "2026-08-28T13:37:53.075Z"
         },
@@ -1654,7 +1633,7 @@
             "open_issues": 8,
             "owner": "wangzhishou",
             "repo": "OneBox",
-            "stars": 957,
+            "stars": 970,
             "topics": [
               "ai",
               "ai-agent",
@@ -1678,6 +1657,27 @@
             ]
           },
           "first_seen": "2026-10-18T06:50:24.359Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ComposeAcademy-Playground",
+          "description": "hitherejoe/ComposeAcademy-Playground",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Playground project for the Jetpack Compose APIs",
+            "homepage": null,
+            "id": 265163836,
+            "language": "Kotlin",
+            "license": null,
+            "last_commit": "2021-04-08T05:27:36Z",
+            "open_issues": 2,
+            "owner": "hitherejoe",
+            "repo": "ComposeAcademy-Playground",
+            "stars": 965,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T13:37:53.075Z"
         },
         {
           "node_type": "item",
@@ -2269,11 +2269,11 @@
             "id": 293498508,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T03:12:57Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-31T04:48:45Z",
+            "open_issues": 24,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19457,
+            "stars": 19459,
             "topics": [
               "android",
               "awt",
@@ -2373,7 +2373,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3656,
+            "stars": 3657,
             "topics": [
               "android",
               "androidx",
@@ -2394,7 +2394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T07:55:48.800Z",
+    "last_updated": "2026-10-31T07:50:02.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
