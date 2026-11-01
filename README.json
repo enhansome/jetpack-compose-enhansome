@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6890,
+            "stars": 6889,
             "topics": [
               "android",
               "android-ui",
@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T05:13:04Z",
+            "last_commit": "2026-11-01T05:53:16Z",
             "open_issues": 62,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6126,
+            "stars": 6130,
             "topics": [
               "android",
               "jetpack",
@@ -81,7 +81,7 @@
             "open_issues": 68,
             "owner": "airbnb",
             "repo": "Showkase",
-            "stars": 2325,
+            "stars": 2324,
             "topics": [
               "android",
               "android-library",
@@ -177,7 +177,7 @@
                 "open_issues": 55,
                 "owner": "raamcosta",
                 "repo": "compose-destinations",
-                "stars": 3392,
+                "stars": 3391,
                 "topics": [
                   "android",
                   "android-library",
@@ -579,7 +579,7 @@
             "open_issues": 14,
             "owner": "adrielcafe",
             "repo": "lyricist",
-            "stars": 813,
+            "stars": 812,
             "topics": [
               "android",
               "android-library",
@@ -758,7 +758,7 @@
                 "open_issues": 31,
                 "owner": "MohamedRejeb",
                 "repo": "compose-rich-editor",
-                "stars": 1864,
+                "stars": 1865,
                 "topics": [
                   "android",
                   "android-library",
@@ -829,7 +829,7 @@
                 "open_issues": 44,
                 "owner": "leinardi",
                 "repo": "FloatingActionButtonSpeedDial",
-                "stars": 1476,
+                "stars": 1475,
                 "topics": [
                   "android",
                   "android-library",
@@ -1523,7 +1523,7 @@
             "open_issues": 9,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23548,
+            "stars": 23549,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1548,7 +1548,7 @@
             "open_issues": 76,
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17736,
+            "stars": 17735,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:53.075Z"
@@ -1569,7 +1569,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3657,
+            "stars": 3656,
             "topics": [
               "android",
               "androidx",
@@ -1633,7 +1633,7 @@
             "open_issues": 8,
             "owner": "wangzhishou",
             "repo": "OneBox",
-            "stars": 970,
+            "stars": 989,
             "topics": [
               "ai",
               "ai-agent",
@@ -2273,7 +2273,7 @@
             "open_issues": 24,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19459,
+            "stars": 19461,
             "topics": [
               "android",
               "awt",
@@ -2373,7 +2373,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3657,
+            "stars": 3656,
             "topics": [
               "android",
               "androidx",
@@ -2394,7 +2394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T07:50:02.747Z",
+    "last_updated": "2026-11-01T08:30:21.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
@@ -2406,7 +2406,7 @@
       "open_issues": 29,
       "owner": "jetpack-compose",
       "repo": "jetpack-compose-awesome",
-      "stars": 2613,
+      "stars": 2614,
       "topics": [
         "android",
         "android-jetpack",
