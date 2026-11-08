@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T06:10:10Z",
+            "last_commit": "2026-11-07T22:48:41Z",
             "open_issues": 63,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6131,
+            "stars": 6130,
             "topics": [
               "android",
               "jetpack",
@@ -209,7 +209,7 @@
                 "open_issues": 196,
                 "owner": "adrielcafe",
                 "repo": "voyager",
-                "stars": 3091,
+                "stars": 3090,
                 "topics": [
                   "android",
                   "android-compose",
@@ -250,7 +250,7 @@
                 "open_issues": 77,
                 "owner": "bumble-tech",
                 "repo": "appyx",
-                "stars": 1263,
+                "stars": 1264,
                 "topics": [
                   "android",
                   "android-architecture",
@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "google",
             "repo": "accompanist",
-            "stars": 7849,
+            "stars": 7850,
             "topics": [
               "android-library",
               "jetpack-compose"
@@ -456,7 +456,7 @@
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
-            "stars": 2587,
+            "stars": 2588,
             "topics": [
               "android",
               "compose",
@@ -1523,7 +1523,7 @@
             "open_issues": 9,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23554,
+            "stars": 23556,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1548,7 +1548,7 @@
             "open_issues": 76,
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17732,
+            "stars": 17731,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:53.075Z"
@@ -1629,11 +1629,11 @@
             "id": 1327506365,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T06:07:36Z",
+            "last_commit": "2026-11-08T06:46:09Z",
             "open_issues": 8,
             "owner": "wangzhishou",
             "repo": "OneBox",
-            "stars": 1083,
+            "stars": 1101,
             "topics": [
               "ai",
               "ai-agent",
@@ -2273,7 +2273,7 @@
             "open_issues": 27,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19466,
+            "stars": 19470,
             "topics": [
               "android",
               "awt",
@@ -2311,7 +2311,7 @@
             "open_issues": 0,
             "owner": "vipulasri",
             "repo": "compose-slack-desktop",
-            "stars": 298,
+            "stars": 297,
             "topics": [
               "android",
               "jetpack",
@@ -2394,7 +2394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T08:05:32.564Z",
+    "last_updated": "2026-11-08T08:23:58.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
