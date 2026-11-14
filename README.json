@@ -15,7 +15,7 @@
             "id": 293227683,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-11-02T17:45:22Z",
+            "last_commit": "2026-11-14T00:03:42Z",
             "open_issues": 41,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T06:54:46Z",
+            "last_commit": "2026-11-14T05:21:33Z",
             "open_issues": 62,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6130,
+            "stars": 6133,
             "topics": [
               "android",
               "jetpack",
@@ -177,7 +177,7 @@
                 "open_issues": 54,
                 "owner": "raamcosta",
                 "repo": "compose-destinations",
-                "stars": 3387,
+                "stars": 3386,
                 "topics": [
                   "android",
                   "android-library",
@@ -452,7 +452,7 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T23:09:41Z",
+            "last_commit": "2026-11-14T07:19:47Z",
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
@@ -579,7 +579,7 @@
             "open_issues": 14,
             "owner": "adrielcafe",
             "repo": "lyricist",
-            "stars": 811,
+            "stars": 810,
             "topics": [
               "android",
               "android-library",
@@ -800,7 +800,7 @@
                 "open_issues": 27,
                 "owner": "saket",
                 "repo": "telephoto",
-                "stars": 1573,
+                "stars": 1572,
                 "topics": [
                   "android",
                   "compose",
@@ -829,7 +829,7 @@
                 "open_issues": 44,
                 "owner": "leinardi",
                 "repo": "FloatingActionButtonSpeedDial",
-                "stars": 1476,
+                "stars": 1475,
                 "topics": [
                   "android",
                   "android-library",
@@ -858,7 +858,7 @@
                 "open_issues": 44,
                 "owner": "halilozercan",
                 "repo": "compose-richtext",
-                "stars": 992,
+                "stars": 991,
                 "topics": [
                   "android",
                   "compose",
@@ -1523,7 +1523,7 @@
             "open_issues": 10,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23557,
+            "stars": 23553,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1633,7 +1633,7 @@
             "open_issues": 8,
             "owner": "wangzhishou",
             "repo": "OneBox",
-            "stars": 1185,
+            "stars": 1186,
             "topics": [
               "ai",
               "ai-agent",
@@ -2269,11 +2269,11 @@
             "id": 293498508,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T03:04:35Z",
+            "last_commit": "2026-11-13T13:23:23Z",
             "open_issues": 26,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19488,
+            "stars": 19487,
             "topics": [
               "android",
               "awt",
@@ -2394,7 +2394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T08:56:37.034Z",
+    "last_updated": "2026-11-14T08:23:35.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
@@ -2406,7 +2406,7 @@
       "open_issues": 33,
       "owner": "jetpack-compose",
       "repo": "jetpack-compose-awesome",
-      "stars": 2615,
+      "stars": 2616,
       "topics": [
         "android",
         "android-jetpack",
