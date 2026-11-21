@@ -4,7 +4,7 @@
 
 📝 A curated list of awesome JetpackCompose libraries, projects, articles and resources.
 
-**See also:** [Android Developer Reference](https://github.com/ImangazalievM/android-developer-reference) ⭐ 343 | 🐛 0 | 🌐 Kotlin | 📅 2022-06-19
+**See also:** [Android Developer Reference](https://github.com/ImangazalievM/android-developer-reference) ⭐ 342 | 🐛 0 | 🌐 Kotlin | 📅 2022-06-19
 
 ## Contents
 
@@ -35,8 +35,8 @@
 
 ## Docs
 
-* [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) ⭐ 6,891 | 🐛 41 | 🌐 Kotlin | 📅 2026-11-14
-* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,143 | 🐛 64 | 🌐 Kotlin | 📅 2026-11-20
+* [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) ⭐ 6,892 | 🐛 40 | 🌐 Kotlin | 📅 2026-11-21
+* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md) ⭐ 6,145 | 🐛 64 | 🌐 Kotlin | 📅 2026-11-21
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
 * [Jetpack Compose Codelabs](https://developer.android.com/codelabs/jetpack-compose-basics)
 * [Jetpack Compose Roadmap](https://developer.android.com/jetpack/androidx/compose-roadmap)
@@ -116,7 +116,7 @@
 * [compose-destinations](https://github.com/raamcosta/compose-destinations) ⭐ 3,384 | 🐛 54 | 🌐 Kotlin | 📅 2025-10-12 - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 * [compose-router]() -  Routing functionality for Jetpack Compose with back stack
   [voyager](https://github.com/adrielcafe/voyager) ⭐ 3,087 | 🐛 196 | 🌐 Kotlin | 📅 2026-06-06 - A pragmatic navigation library for Jetpack Compose
-* [Appyx](https://github.com/bumble-tech/appyx) ⭐ 1,265 | 🐛 77 | 🌐 Kotlin | 📅 2026-11-05 - Model-driven navigation for Jetpack Compose
+* [Appyx](https://github.com/bumble-tech/appyx) ⭐ 1,265 | 🐛 77 | 🌐 Kotlin | 📅 2026-11-20 - Model-driven navigation for Jetpack Compose
 * [compose-navigation-reimagined](https://github.com/olshevski/compose-navigation-reimagined) ⭐ 571 | 🐛 7 | 🌐 Kotlin | 📅 2024-01-27 - A small and simple, yet fully fledged and customizable navigation library for Jetpack Compose
 * [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) ⚠️ Archived - Simple composable for rendering transitions between backstacks.
 * [Modo](https://github.com/terrakok/Modo) ⭐ 343 | 🐛 6 | 🌐 Kotlin | 📅 2026-06-26 - Navigation library based on UDF principles
@@ -266,9 +266,9 @@
 
 ### UI
 
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,393 | 🐛 8 | 🌐 Kotlin | 📅 2026-11-19 - Easily celebrate little and big moments in your app with this lightweight confetti particle system 🎊
-* 🆕[](#28-05-23)[Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) ⭐ 1,868 | 🐛 31 | 🌐 Kotlin | 📅 2026-11-11 - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,
-* 🆕[](#28-05-23)[telephoto](https://github.com/saket/telephoto) ⭐ 1,573 | 🐛 28 | 🌐 Kotlin | 📅 2026-07-22 - Building blocks for designing media experiences in Compose UI
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) ⭐ 3,393 | 🐛 8 | 🌐 Kotlin | 📅 2026-11-20 - Easily celebrate little and big moments in your app with this lightweight confetti particle system 🎊
+* 🆕[](#28-05-23)[Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) ⭐ 1,869 | 🐛 31 | 🌐 Kotlin | 📅 2026-11-11 - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,
+* 🆕[](#28-05-23)[telephoto](https://github.com/saket/telephoto) ⭐ 1,574 | 🐛 28 | 🌐 Kotlin | 📅 2026-07-22 - Building blocks for designing media experiences in Compose UI
 * [FloatingActionButton SpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial) ⭐ 1,474 | 🐛 44 | 🌐 Java | 📅 2024-04-04
 * [compose-richtext](https://github.com/zach-klippenstein/compose-richtext) ⭐ 990 | 🐛 44 | 🌐 Kotlin | 📅 2026-06-08 - A collection of Compose libraries for advanced text formatting.
 * [tehras/charts](https://github.com/tehras/charts) ⭐ 776 | 🐛 12 | 🌐 Kotlin | 📅 2026-03-03 - simple Android compose charts.
@@ -298,9 +298,9 @@
 
 * [Jetpack Compose Samples](https://github.com/android/compose-samples) ⭐ 23,567 | 🐛 11 | 🌐 Kotlin | 📅 2026-11-19 (**+15.9K** ⭐) - Official repository with samples by Google
 * [sunflower](https://github.com/android/sunflower/tree/compose) ⚠️ Archived (**+16.8K** ⭐) - Sample app by Google
-* [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) ⭐ 3,648 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31 (**+2.8K** ⭐)
+* [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) ⭐ 3,649 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31 (**+2.8K** ⭐)
 * [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) ⭐ 3,443 | 🐛 18 | 🌐 Kotlin | 📅 2025-09-04 (**+2.9K** ⭐)
-* [OneBox](https://github.com/wangzhishou/OneBox) ⭐ 1,194 | 🐛 8 | 🌐 Kotlin | 📅 2026-11-20 (**+490** ⭐) - A free AI agent & toolbox for Android: a built-in agent drives 90+ in-app tools, plus image, document & productivity utilities. Published on Google Play & F-Droid
+* [OneBox](https://github.com/wangzhishou/OneBox) ⭐ 1,198 | 🐛 8 | 🌐 Kotlin | 📅 2026-11-21 (**+490** ⭐) - A free AI agent & toolbox for Android: a built-in agent drives 90+ in-app tools, plus image, document & productivity utilities. Published on Google Play & F-Droid
 * [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) ⭐ 962 | 🐛 2 | 🌐 Kotlin | 📅 2021-04-08 (**+870** ⭐)
 * [JetInstagram](https://github.com/vipulasri/JetInstagram) ⭐ 841 | 🐛 2 | 🌐 Kotlin | 📅 2022-07-09 (**+689** ⭐) - Instagram clone app built with Jetpack Compose
 * [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) ⭐ 727 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-09 (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
@@ -333,7 +333,7 @@
 
 ## Compose Desktop Projects
 
-* [Compose JB](https://github.com/JetBrains/compose-jb) ⭐ 19,490 | 🐛 27 | 🌐 Kotlin | 📅 2026-11-20 - Jetpack Compose for Desktop and Web
+* [Compose JB](https://github.com/JetBrains/compose-jb) ⭐ 19,491 | 🐛 28 | 🌐 Kotlin | 📅 2026-11-21 - Jetpack Compose for Desktop and Web
 * [ComposeSlackDesktop](https://github.com/vipulasri/ComposeSlackDesktop) ⭐ 297 | 🐛 0 | 🌐 Kotlin | 📅 2021-01-17 - A Slack demo app for desktop using Jetpack Compose
 
 ## Other projects
@@ -350,7 +350,7 @@
 
 ## Extras
 
-* [Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) ⭐ 3,648 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31 - Community-driven collection of Jetpack Compose example code and tutorials 🚀
+* [Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) ⭐ 3,649 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-31 - Community-driven collection of Jetpack Compose example code and tutorials 🚀
 * [Compose Modifiers Playground](https://plugins.jetbrains.com/plugin/16417-compose-modifiers-playground)
 
 ## Find this repository useful? ❤️
@@ -359,4 +359,4 @@ Support it by joining stargazers for this repository. ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
