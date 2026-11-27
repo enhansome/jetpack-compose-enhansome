@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6893,
+            "stars": 6895,
             "topics": [
               "android",
               "android-ui",
@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T10:02:37Z",
+            "last_commit": "2026-11-27T08:55:49Z",
             "open_issues": 64,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6151,
+            "stars": 6153,
             "topics": [
               "android",
               "jetpack",
@@ -429,7 +429,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2025-08-18T20:49:30Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "google",
             "repo": "accompanist",
             "stars": 7850,
@@ -453,7 +453,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-11-25T21:02:56Z",
-            "open_issues": 3,
+            "open_issues": 9,
             "owner": "skydoves",
             "repo": "landscapist",
             "stars": 2588,
@@ -1003,7 +1003,7 @@
                 "open_issues": 11,
                 "owner": "AndroidPoet",
                 "repo": "Dropdown",
-                "stars": 419,
+                "stars": 420,
                 "topics": [
                   "android",
                   "androidpoet",
@@ -1033,7 +1033,7 @@
                 "open_issues": 6,
                 "owner": "exyte",
                 "repo": "AndroidAnimatedNavigationBar",
-                "stars": 412,
+                "stars": 411,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:37:53.075Z"
@@ -1523,7 +1523,7 @@
             "open_issues": 10,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23585,
+            "stars": 23588,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1548,7 +1548,7 @@
             "open_issues": 76,
             "owner": "android",
             "repo": "sunflower",
-            "stars": 17728,
+            "stars": 17729,
             "topics": []
           },
           "first_seen": "2026-08-28T13:37:53.075Z"
@@ -1569,7 +1569,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3649,
+            "stars": 3648,
             "topics": [
               "android",
               "androidx",
@@ -1629,11 +1629,11 @@
             "id": 1327506365,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T10:11:24Z",
+            "last_commit": "2026-11-27T08:10:39Z",
             "open_issues": 8,
             "owner": "wangzhishou",
             "repo": "OneBox",
-            "stars": 1204,
+            "stars": 1207,
             "topics": [
               "ai",
               "ai-agent",
@@ -2269,11 +2269,11 @@
             "id": 293498508,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T03:02:40Z",
+            "last_commit": "2026-11-27T03:02:47Z",
             "open_issues": 26,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19500,
+            "stars": 19502,
             "topics": [
               "android",
               "awt",
@@ -2373,7 +2373,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3649,
+            "stars": 3648,
             "topics": [
               "android",
               "androidx",
@@ -2394,7 +2394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T10:15:51.181Z",
+    "last_updated": "2026-11-27T10:22:31.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
