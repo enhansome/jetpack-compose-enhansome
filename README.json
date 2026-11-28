@@ -15,8 +15,8 @@
             "id": 293227683,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-11-22T22:08:21Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-28T00:26:44Z",
+            "open_issues": 38,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
             "stars": 6895,
@@ -46,11 +46,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T08:55:49Z",
+            "last_commit": "2026-11-27T18:07:30Z",
             "open_issues": 64,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6153,
+            "stars": 6154,
             "topics": [
               "android",
               "jetpack",
@@ -452,7 +452,7 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T21:02:56Z",
+            "last_commit": "2026-11-27T16:23:06Z",
             "open_issues": 9,
             "owner": "skydoves",
             "repo": "landscapist",
@@ -491,7 +491,7 @@
             "open_issues": 28,
             "owner": "Calvin-LL",
             "repo": "Reorderable",
-            "stars": 1388,
+            "stars": 1390,
             "topics": [
               "android",
               "compose-multiplatform",
@@ -579,7 +579,7 @@
             "open_issues": 13,
             "owner": "adrielcafe",
             "repo": "lyricist",
-            "stars": 812,
+            "stars": 813,
             "topics": [
               "android",
               "android-library",
@@ -933,6 +933,32 @@
             },
             {
               "node_type": "item",
+              "title": "neumorphic-compose",
+              "description": "Neumorphism UI with Jetpack Compose. Just add simple modifier.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Neumorphism UI on Android with Jetpack Compose.",
+                "homepage": null,
+                "id": 372238883,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2021-10-02T12:32:11Z",
+                "open_issues": 4,
+                "owner": "CuriousNikhil",
+                "repo": "neumorphic-compose",
+                "stars": 470,
+                "topics": [
+                  "jetpack-compose",
+                  "kotlin",
+                  "kotlin-android",
+                  "kotlin-library"
+                ]
+              },
+              "first_seen": "2026-08-28T13:37:53.075Z"
+            },
+            {
+              "node_type": "item",
               "title": "Collection of UIs and Animations built with Jetpack Compose for Android",
               "description": "Collection of UIs and Animations built with Jetpack Compose for Android",
               "children": [],
@@ -963,32 +989,6 @@
             },
             {
               "node_type": "item",
-              "title": "neumorphic-compose",
-              "description": "Neumorphism UI with Jetpack Compose. Just add simple modifier.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Neumorphism UI on Android with Jetpack Compose.",
-                "homepage": null,
-                "id": 372238883,
-                "language": "Kotlin",
-                "license": "Apache-2.0",
-                "last_commit": "2021-10-02T12:32:11Z",
-                "open_issues": 4,
-                "owner": "CuriousNikhil",
-                "repo": "neumorphic-compose",
-                "stars": 469,
-                "topics": [
-                  "jetpack-compose",
-                  "kotlin",
-                  "kotlin-android",
-                  "kotlin-library"
-                ]
-              },
-              "first_seen": "2026-08-28T13:37:53.075Z"
-            },
-            {
-              "node_type": "item",
               "title": "Dropdown",
               "description": "A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations",
               "children": [],
@@ -999,7 +999,7 @@
                 "id": 485185020,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T18:57:12Z",
+                "last_commit": "2026-11-27T15:59:17Z",
                 "open_issues": 11,
                 "owner": "AndroidPoet",
                 "repo": "Dropdown",
@@ -1523,7 +1523,7 @@
             "open_issues": 10,
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23588,
+            "stars": 23590,
             "topics": [
               "android",
               "jetpack-compose",
@@ -1569,7 +1569,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3648,
+            "stars": 3649,
             "topics": [
               "android",
               "androidx",
@@ -1629,7 +1629,7 @@
             "id": 1327506365,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T08:10:39Z",
+            "last_commit": "2026-11-28T04:28:16Z",
             "open_issues": 8,
             "owner": "wangzhishou",
             "repo": "OneBox",
@@ -2269,11 +2269,11 @@
             "id": 293498508,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T03:02:47Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-28T03:02:47Z",
+            "open_issues": 25,
             "owner": "JetBrains",
             "repo": "compose-multiplatform",
-            "stars": 19502,
+            "stars": 19503,
             "topics": [
               "android",
               "awt",
@@ -2373,7 +2373,7 @@
             "open_issues": 16,
             "owner": "Foso",
             "repo": "Jetpack-Compose-Playground",
-            "stars": 3648,
+            "stars": 3649,
             "topics": [
               "android",
               "androidx",
@@ -2394,7 +2394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:22:31.920Z",
+    "last_updated": "2026-11-28T09:39:24.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources",
